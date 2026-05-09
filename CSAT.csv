@@ -1,0 +1,1001 @@
+id,customer_name,sentiment,csat_score,call_timestamp,Call_Day,reason,city,state,channel,response_time,call_duration_in_minutes,call_center
+AAA-03321706-1-866834-I1,Andrea Bailiss,Negative,3,10/15/2020,15,Payments,Charlotte,North Carolina,Call-Center,Within SLA,12,Baltimore/MD
+AAB-04923282-m-405308-yW,Othilie Strand,Negative,0,10/22/2020,22,Service Outage,Nashville,Tennessee,Web,Below SLA,5,Baltimore/MD
+AAB-23102945-b-065985-xp,Sondra Bearman,Very Positive,0,10-06-2020,6,Billing Question,Salem,Oregon,Call-Center,Above SLA,9,Chicago/IL
+AAB-64454903-y-396859-bx,Gibb Augustine,Positive,0,10/15/2020,15,Service Outage,Littleton,Colorado,Web,Within SLA,20,Los Angeles/CA
+AAB-68191584-X-296651-JM,Hope Verissimo,Positive,0,10-02-2020,2,Billing Question,Fresno,California,Web,Within SLA,43,Chicago/IL
+AAD-09890763-W-615200-jL,Eydie Firebrace,Neutral,0,10/16/2020,16,Billing Question,Las Vegas,Nevada,Web,Within SLA,28,Baltimore/MD
+AAD-20872250-D-453978-fM,Hendrika Higgonet,Very Positive,9,10/14/2020,14,Billing Question,Anaheim,California,Email,Below SLA,8,Los Angeles/CA
+AAD-28507074-R-562834-Xd,Bond Eve,Very Negative,0,10/16/2020,16,Billing Question,Pasadena,California,Call-Center,Above SLA,20,Baltimore/MD
+AAD-37751026-T-355348-zV,Selby Poon,Negative,0,10-08-2020,8,Billing Question,Vero Beach,Florida,Web,Within SLA,21,Chicago/IL
+AAD-91253539-C-305338-wj,Shelbi Baiss,Positive,8,10-10-2020,10,Billing Question,Paterson,New Jersey,Call-Center,Within SLA,11,Baltimore/MD
+AAE-05965563-S-424746-4p,Krysta Gonnelly,Negative,0,10/20/2020,20,Billing Question,Pasadena,California,Chatbot,Above SLA,44,Chicago/IL
+AAE-20338259-S-732755-mJ,Celinda Blincko,Positive,8,10/22/2020,22,Billing Question,Arlington,Virginia,Email,Within SLA,19,Baltimore/MD
+AAE-56555470-4-160195-FX,Wendall Heinsen,Negative,6,10/27/2020,27,Payments,Amarillo,Texas,Call-Center,Within SLA,45,Los Angeles/CA
+AAE-68788374-t-102355-kw,Emalia Wilton,Negative,5,10-08-2020,8,Billing Question,Bradenton,Florida,Email,Within SLA,21,Los Angeles/CA
+AAF-12965416-Y-392290-yT,Ardelle Dunbavin,Very Negative,0,10/18/2020,18,Billing Question,Philadelphia,Pennsylvania,Web,Within SLA,16,Los Angeles/CA
+AAF-25933263-r-676313-sd,Sibylle Tuplin,Positive,0,10-08-2020,8,Service Outage,Phoenix,Arizona,Web,Within SLA,14,Baltimore/MD
+AAF-97589540-z-453138-Ca,Roselia Listone,Neutral,0,10/27/2020,27,Payments,Tuscaloosa,Alabama,Call-Center,Below SLA,28,Chicago/IL
+AAG-74209063-w-486645-1T,Elonore Fernier,Positive,9,10-05-2020,5,Billing Question,Louisville,Kentucky,Web,Above SLA,38,Baltimore/MD
+AAH-00792945-3-552123-Hn,Chev Quarles,Very Positive,9,10-06-2020,6,Billing Question,New York City,New York,Web,Within SLA,15,Chicago/IL
+AAH-47182806-V-056613-mt,Leonhard McPharlain,Negative,0,10/21/2020,21,Payments,Montgomery,Alabama,Call-Center,Within SLA,42,Denver/CO
+AAI-76624824-D-681890-o9,Barnaby Dunkinson,Neutral,5,10-05-2020,5,Billing Question,Flint,Michigan,Email,Within SLA,24,Los Angeles/CA
+AAJ-31393249-T-371030-7M,Corrine Winfred,Negative,0,10-12-2020,12,Billing Question,Oklahoma City,Oklahoma,Chatbot,Within SLA,20,Los Angeles/CA
+AAK-01722446-R-008487-pL,Rolland Gillbey,Negative,3,10/18/2020,18,Billing Question,Albany,New York,Email,Within SLA,30,Denver/CO
+AAK-54246932-l-947676-dt,Aveline Goodlife,Positive,0,10/17/2020,17,Payments,Fairfax,Virginia,Call-Center,Below SLA,21,Baltimore/MD
+AAK-72648595-0-716329-0q,Janith Tregonna,Very Negative,2,10/22/2020,22,Billing Question,Brockton,Massachusetts,Chatbot,Within SLA,5,Baltimore/MD
+AAK-89591840-T-157623-lt,Cherri Airth,Positive,8,10-09-2020,9,Billing Question,Los Angeles,California,Email,Above SLA,7,Los Angeles/CA
+AAM-07091179-K-410299-9Y,Antoine Pitkaithly,Negative,0,10-07-2020,7,Billing Question,Lexington,Kentucky,Chatbot,Below SLA,36,Baltimore/MD
+AAM-13006642-0-551960-P9,Laughton Weeks,Positive,7,10-07-2020,7,Billing Question,Gulfport,Mississippi,Call-Center,Above SLA,31,Los Angeles/CA
+AAM-16476750-f-900342-c6,Harmonia Ipwell,Negative,0,10/13/2020,13,Billing Question,Tulsa,Oklahoma,Call-Center,Within SLA,22,Baltimore/MD
+AAM-24463809-s-463609-8c,Lissi Catonne,Neutral,7,10/22/2020,22,Payments,Lancaster,Pennsylvania,Call-Center,Within SLA,24,Baltimore/MD
+AAM-28160436-9-466005-Ps,Vinson Renyard,Very Positive,10,10/17/2020,17,Payments,Paterson,New Jersey,Call-Center,Within SLA,10,Los Angeles/CA
+AAM-67344603-W-581538-qn,Orazio Houten,Negative,0,10/15/2020,15,Billing Question,Clearwater,Florida,Web,Below SLA,36,Los Angeles/CA
+AAM-76650529-r-620062-qG,Jessamine Oleshunin,Negative,0,10/19/2020,19,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,17,Baltimore/MD
+AAN-17425474-f-089955-Zl,Roxanne Burl,Negative,0,10-05-2020,5,Payments,Manchester,New Hampshire,Call-Center,Within SLA,32,Chicago/IL
+AAN-30992273-B-455433-S1,Orrin Hearnaman,Neutral,0,10/20/2020,20,Billing Question,Lynn,Massachusetts,Web,Within SLA,24,Baltimore/MD
+AAN-35255668-Y-786676-GG,Dorolice Alishoner,Negative,0,10-12-2020,12,Service Outage,Boston,Massachusetts,Email,Within SLA,27,Chicago/IL
+AAO-79477258-4-901603-hL,Tate Chidwick,Neutral,0,10-02-2020,2,Billing Question,Pittsburgh,Pennsylvania,Call-Center,Within SLA,6,Los Angeles/CA
+AAO-97925279-N-959600-iS,Emilee Pudan,Very Negative,0,10/26/2020,26,Payments,Durham,North Carolina,Call-Center,Within SLA,34,Los Angeles/CA
+AAP-26862170-4-279567-Js,Ursula Lavrick,Neutral,0,10/16/2020,16,Billing Question,Garden Grove,California,Chatbot,Within SLA,16,Chicago/IL
+AAP-56121141-e-659041-kE,Tabb Rabbage,Neutral,7,10-01-2020,1,Billing Question,Kansas City,Missouri,Email,Within SLA,41,Chicago/IL
+AAP-75864646-Q-577760-40,Lucille Bigham,Positive,9,10/20/2020,20,Billing Question,Denver,Colorado,Chatbot,Below SLA,34,Los Angeles/CA
+AAP-87210556-N-600322-Ez,Lenard Tomet,Neutral,0,10-04-2020,4,Billing Question,Atlanta,Georgia,Web,Within SLA,25,Los Angeles/CA
+AAR-06190528-r-994754-PN,Newton Hedderly,Very Negative,0,10/27/2020,27,Billing Question,Charlotte,North Carolina,Call-Center,Above SLA,7,Chicago/IL
+AAR-18900466-z-593408-9Q,Alex Dumbelton,Very Negative,0,10-06-2020,6,Billing Question,Washington,District of Columbia,Email,Below SLA,14,Baltimore/MD
+AAR-72355759-x-505886-4w,Ignacius Maurice,Very Negative,0,10/22/2020,22,Payments,Montgomery,Alabama,Call-Center,Below SLA,7,Los Angeles/CA
+AAR-76637112-u-393942-YY,Sterling Staves,Negative,0,10/25/2020,25,Billing Question,Pittsburgh,Pennsylvania,Call-Center,Within SLA,14,Denver/CO
+AAS-80379381-f-915564-cV,Halley Wilkerson,Negative,4,10/19/2020,19,Service Outage,Sparks,Nevada,Web,Within SLA,5,Baltimore/MD
+AAS-82228974-y-969269-m3,Kandy Gallety,Very Positive,10,10/15/2020,15,Billing Question,Los Angeles,California,Web,Above SLA,29,Los Angeles/CA
+AAS-96671334-z-432224-5P,Kristoforo Hoofe,Negative,0,10/19/2020,19,Billing Question,Oakland,California,Email,Above SLA,15,Chicago/IL
+AAT-53465245-9-250458-MD,Manya Firle,Very Negative,0,10/18/2020,18,Billing Question,New Haven,Connecticut,Call-Center,Above SLA,34,Chicago/IL
+AAT-75307639-3-594254-7W,Angel Durgan,Very Negative,0,10/23/2020,23,Service Outage,Denver,Colorado,Email,Within SLA,45,Los Angeles/CA
+AAU-19071872-l-767060-IT,Tomas Lilleman,Neutral,0,10/19/2020,19,Billing Question,Louisville,Kentucky,Web,Within SLA,26,Denver/CO
+AAU-53284369-O-231068-hJ,Louella Davidde,Positive,0,10-07-2020,7,Service Outage,Orange,California,Email,Within SLA,37,Los Angeles/CA
+AAU-59108059-N-723282-PI,Carlyle Ashmole,Very Positive,0,10/26/2020,26,Billing Question,Saint Louis,Missouri,Email,Within SLA,29,Chicago/IL
+AAV-55712680-M-150407-aO,Carline Goranov,Negative,3,10/30/2020,30,Billing Question,Des Moines,Iowa,Email,Within SLA,11,Los Angeles/CA
+AAV-93574943-s-607189-o8,Wyn Twitchings,Neutral,6,10/14/2020,14,Billing Question,Lubbock,Texas,Call-Center,Below SLA,29,Los Angeles/CA
+AAW-85808076-I-731688-A1,Susi Hoggetts,Very Positive,10,10/22/2020,22,Billing Question,Irvine,California,Chatbot,Above SLA,43,Los Angeles/CA
+AAY-33436823-a-839214-vh,Adiana Albisser,Neutral,0,10-03-2020,3,Billing Question,Saint Louis,Missouri,Call-Center,Below SLA,6,Chicago/IL
+AAY-71123295-b-462877-Yc,Megan Soanes,Neutral,0,10-04-2020,4,Billing Question,Phoenix,Arizona,Chatbot,Within SLA,11,Baltimore/MD
+AAZ-07602543-j-739510-2U,Andrej Marusyak,Negative,6,10-05-2020,5,Billing Question,Conroe,Texas,Call-Center,Below SLA,29,Los Angeles/CA
+AAZ-63205041-L-649076-zs,Reggie Bellefonte,Positive,0,10/13/2020,13,Billing Question,Atlanta,Georgia,Chatbot,Within SLA,31,Chicago/IL
+AAZ-87554486-c-344303-Qm,Georgine Birden,Positive,0,10-05-2020,5,Billing Question,Scottsdale,Arizona,Web,Within SLA,43,Los Angeles/CA
+ABB-11911576-a-141607-W5,Corene Charlin,Neutral,0,10/17/2020,17,Billing Question,Charleston,West Virginia,Call-Center,Within SLA,40,Los Angeles/CA
+ABB-38485314-y-080888-AB,Barbette Johann,Very Negative,1,10/25/2020,25,Payments,Boston,Massachusetts,Call-Center,Within SLA,17,Chicago/IL
+ABB-63676693-c-049214-19,Sigrid Mingo,Positive,0,10/15/2020,15,Payments,Lakewood,Washington,Call-Center,Below SLA,36,Los Angeles/CA
+ABB-91988499-k-181948-f0,Randy Riall,Neutral,6,10/20/2020,20,Billing Question,Young America,Minnesota,Chatbot,Above SLA,34,Baltimore/MD
+ABC-50434863-q-514845-yp,Ax Hayhow,Very Negative,2,10/27/2020,27,Billing Question,Sacramento,California,Email,Within SLA,37,Chicago/IL
+ABC-56014448-V-074768-Ye,Joell Pherps,Neutral,7,10/13/2020,13,Payments,Knoxville,Tennessee,Call-Center,Within SLA,19,Denver/CO
+ABD-13623421-L-291517-Gu,Creigh Purchase,Negative,0,10/15/2020,15,Billing Question,Northridge,California,Call-Center,Within SLA,43,Denver/CO
+ABD-17771727-v-898121-w1,Nefen O'Cridigan,Negative,0,10/21/2020,21,Billing Question,Oakland,California,Chatbot,Within SLA,7,Los Angeles/CA
+ABD-18250411-a-121317-mv,Malvina Scurman,Very Positive,9,10/24/2020,24,Billing Question,Green Bay,Wisconsin,Web,Within SLA,38,Los Angeles/CA
+ABE-47352675-l-931537-ug,Marjy Griffith,Very Negative,0,10-09-2020,9,Payments,Alpharetta,Georgia,Call-Center,Above SLA,35,Los Angeles/CA
+ABF-86189991-Q-330023-5R,Barney Wartonby,Neutral,6,10-05-2020,5,Billing Question,New York City,New York,Email,Below SLA,8,Los Angeles/CA
+ABG-46972551-y-208760-BH,Janey Delves,Positive,0,10-05-2020,5,Billing Question,Spring,Texas,Email,Within SLA,11,Chicago/IL
+ABG-98544637-N-881832-I8,Padraic Clemente,Neutral,0,10/27/2020,27,Billing Question,Young America,Minnesota,Web,Within SLA,43,Baltimore/MD
+ABI-32421675-t-696763-Qo,Lenka Mulryan,Very Negative,2,10-05-2020,5,Billing Question,Herndon,Virginia,Call-Center,Within SLA,15,Los Angeles/CA
+ABJ-07188852-S-895716-7C,Damian Poolton,Neutral,0,10-01-2020,1,Billing Question,El Paso,Texas,Call-Center,Below SLA,9,Baltimore/MD
+ABJ-37777704-F-426215-HO,Ned Bunten,Neutral,5,10-06-2020,6,Billing Question,Chicago,Illinois,Web,Within SLA,19,Chicago/IL
+ABK-09847353-y-616256-HQ,Babita Oddboy,Positive,8,10-10-2020,10,Billing Question,Milwaukee,Wisconsin,Chatbot,Within SLA,41,Chicago/IL
+ABK-35464239-i-856539-OP,Marietta Lacroutz,Very Negative,0,10-03-2020,3,Payments,West Palm Beach,Florida,Call-Center,Below SLA,29,Los Angeles/CA
+ABK-54886915-w-051478-MU,Berri Fairn,Very Positive,9,10-04-2020,4,Payments,Cincinnati,Ohio,Call-Center,Within SLA,5,Los Angeles/CA
+ABK-65702060-X-640676-C7,Clayborne Arlott,Negative,0,10-06-2020,6,Billing Question,Birmingham,Alabama,Email,Within SLA,14,Baltimore/MD
+ABL-00369532-u-286753-xQ,Rhody Clunan,Positive,0,10-09-2020,9,Billing Question,Sacramento,California,Email,Within SLA,42,Los Angeles/CA
+ABL-49667268-l-692732-nZ,Lewes Sandyford,Negative,0,10/14/2020,14,Billing Question,Raleigh,North Carolina,Email,Below SLA,10,Baltimore/MD
+ABM-71479982-G-955317-lh,Carlin Bing,Negative,0,10/15/2020,15,Billing Question,Los Angeles,California,Chatbot,Within SLA,36,Denver/CO
+ABN-22372424-r-536718-gy,Francisco Wallach,Positive,0,10/21/2020,21,Payments,Kent,Washington,Call-Center,Below SLA,27,Los Angeles/CA
+ABN-55071122-x-703525-ff,Etienne Ward,Positive,0,10/26/2020,26,Billing Question,Oklahoma City,Oklahoma,Web,Above SLA,35,Los Angeles/CA
+ABO-17858518-Y-850565-iM,Esra Littler,Negative,0,10-06-2020,6,Service Outage,Brooksville,Florida,Chatbot,Within SLA,37,Chicago/IL
+ABP-35801280-f-649653-jX,Monah Cockerill,Negative,0,10/27/2020,27,Billing Question,Washington,District of Columbia,Email,Within SLA,25,Los Angeles/CA
+ABP-87719889-X-632583-NW,Deck Jellico,Negative,5,10-07-2020,7,Billing Question,Myrtle Beach,South Carolina,Web,Within SLA,38,Los Angeles/CA
+ABQ-21259095-d-322207-K6,Rocky Bedborough,Very Positive,0,10/29/2020,29,Billing Question,Dallas,Texas,Call-Center,Above SLA,8,Baltimore/MD
+ABQ-69786369-l-190368-ZA,Dewie Krzyzaniak,Neutral,0,10/24/2020,24,Billing Question,Naperville,Illinois,Email,Within SLA,11,Baltimore/MD
+ABR-34794642-k-284006-LZ,Alfie Pigot,Negative,0,10/20/2020,20,Billing Question,Muncie,Indiana,Email,Above SLA,14,Chicago/IL
+ABR-80000720-t-707099-iD,Hercule Grimmolby,Negative,0,10-03-2020,3,Billing Question,Pasadena,California,Email,Below SLA,32,Los Angeles/CA
+ABS-12479762-e-157465-VS,Martina Wilsey,Negative,0,10/29/2020,29,Payments,Brea,California,Call-Center,Within SLA,20,Denver/CO
+ABS-82399735-I-450769-31,Inness Pinsent,Very Negative,0,10-06-2020,6,Payments,Newark,New Jersey,Call-Center,Within SLA,15,Los Angeles/CA
+ABS-86308509-f-138659-09,Fara Dymick,Neutral,6,10-01-2020,1,Billing Question,Fort Worth,Texas,Chatbot,Within SLA,42,Los Angeles/CA
+ABT-54121115-T-403439-oJ,Emmi Ferrotti,Very Negative,0,10/17/2020,17,Payments,Gadsden,Alabama,Call-Center,Within SLA,10,Los Angeles/CA
+ABT-56416541-T-389898-hr,Filberto Kyndred,Very Positive,0,10-06-2020,6,Billing Question,Durham,North Carolina,Email,Within SLA,7,Baltimore/MD
+ABU-76554602-x-662523-9P,Pepita Tidcombe,Negative,0,10-01-2020,1,Billing Question,New Castle,Pennsylvania,Chatbot,Within SLA,9,Los Angeles/CA
+ABV-19906776-N-361245-yX,Tatum Ledrane,Very Positive,0,10/26/2020,26,Billing Question,Dayton,Ohio,Email,Above SLA,45,Baltimore/MD
+ABV-93974608-F-211415-j1,Susy Panniers,Negative,3,10-06-2020,6,Billing Question,Miami,Florida,Email,Below SLA,33,Baltimore/MD
+ABW-05125804-2-586383-b2,Aurore Strank,Negative,5,10/18/2020,18,Service Outage,Pueblo,Colorado,Email,Above SLA,29,Los Angeles/CA
+ABW-59673428-u-717918-nK,Roxie Gilby,Negative,6,10-08-2020,8,Billing Question,Lakewood,Washington,Call-Center,Below SLA,11,Denver/CO
+ABW-82676885-i-712845-oa,Ilyssa Tolfrey,Positive,0,10-05-2020,5,Billing Question,San Diego,California,Chatbot,Within SLA,24,Chicago/IL
+ABX-39451389-S-133767-Ta,Georgetta Portingale,Positive,0,10-01-2020,1,Service Outage,Spartanburg,South Carolina,Chatbot,Below SLA,28,Los Angeles/CA
+ACA-58053876-H-693540-7z,Craig Sammonds,Very Positive,10,10/24/2020,24,Billing Question,Oklahoma City,Oklahoma,Web,Above SLA,24,Baltimore/MD
+ACB-92952013-8-452533-SH,Parker Dmisek,Neutral,0,10-04-2020,4,Billing Question,San Antonio,Texas,Web,Within SLA,14,Los Angeles/CA
+ACB-94517357-W-734265-Nf,Maryanna Wildber,Neutral,5,10/14/2020,14,Service Outage,New Orleans,Louisiana,Web,Above SLA,44,Chicago/IL
+ACC-44326046-J-372932-MK,Barnaby Walshaw,Negative,0,10-09-2020,9,Payments,Harrisburg,Pennsylvania,Call-Center,Below SLA,43,Los Angeles/CA
+ACC-60850826-b-749605-Tq,Essa Baddow,Positive,7,10-05-2020,5,Billing Question,Clearwater,Florida,Email,Below SLA,19,Los Angeles/CA
+ACD-26185418-G-947607-4E,Trixy Lelievre,Very Negative,2,10/23/2020,23,Billing Question,Denver,Colorado,Web,Below SLA,24,Chicago/IL
+ACD-88081846-d-064356-vv,Deloria Mack,Neutral,5,10/26/2020,26,Service Outage,San Antonio,Texas,Chatbot,Within SLA,24,Denver/CO
+ACD-93016460-A-833226-kH,Adamo Ferris,Negative,5,10-06-2020,6,Billing Question,Des Moines,Iowa,Email,Within SLA,31,Chicago/IL
+ACD-95213289-u-666897-Qv,Any Batterham,Neutral,0,10/25/2020,25,Billing Question,Hayward,California,Email,Within SLA,38,Denver/CO
+ACF-70496828-f-622155-2M,Torrin Brenston,Very Positive,0,10/23/2020,23,Billing Question,Albuquerque,New Mexico,Email,Within SLA,12,Chicago/IL
+ACH-31995608-O-258058-kb,Maisey McKenna,Very Negative,4,10/22/2020,22,Billing Question,Jackson,Mississippi,Call-Center,Within SLA,45,Los Angeles/CA
+ACH-36749554-1-130450-KV,Lauren Shepley,Very Negative,0,10-04-2020,4,Service Outage,Providence,Rhode Island,Email,Below SLA,32,Chicago/IL
+ACI-69828116-Z-070252-1E,Henrieta Danielian,Very Positive,10,10/30/2020,30,Payments,Colorado Springs,Colorado,Call-Center,Below SLA,12,Chicago/IL
+ACJ-46859898-I-784218-mQ,Ursala Kilsby,Very Negative,0,10-08-2020,8,Billing Question,Saint Louis,Missouri,Chatbot,Within SLA,28,Baltimore/MD
+ACJ-78894959-D-599583-8u,Margi Longstreeth,Neutral,0,10/22/2020,22,Billing Question,Washington,District of Columbia,Chatbot,Below SLA,42,Chicago/IL
+ACJ-79749727-E-435610-NA,Hertha Stollberg,Neutral,7,10/20/2020,20,Service Outage,Pasadena,California,Chatbot,Below SLA,28,Los Angeles/CA
+ACJ-83115031-v-161814-VL,Ced L'Episcopio,Positive,0,10/30/2020,30,Billing Question,Houston,Texas,Call-Center,Below SLA,27,Chicago/IL
+ACL-15445887-I-029274-bR,Vinny Cahen,Negative,6,10/21/2020,21,Billing Question,Lake Worth,Florida,Email,Below SLA,31,Chicago/IL
+ACM-54335426-w-598757-KP,Karrie Laborda,Neutral,0,10/21/2020,21,Billing Question,Saginaw,Michigan,Web,Within SLA,40,Los Angeles/CA
+ACM-86428627-v-661880-0R,Silvie Matushevitz,Neutral,8,10-05-2020,5,Billing Question,Hollywood,Florida,Web,Below SLA,29,Los Angeles/CA
+ACN-77873640-3-790247-pP,Merci Yerson,Negative,5,10/23/2020,23,Payments,Springfield,Illinois,Call-Center,Below SLA,40,Baltimore/MD
+ACO-20220185-E-171819-sV,Johnette Warrington,Negative,5,10/20/2020,20,Service Outage,Boulder,Colorado,Chatbot,Within SLA,15,Baltimore/MD
+ACO-43107320-w-448962-X1,Langsdon Butler,Neutral,5,10/16/2020,16,Billing Question,North Las Vegas,Nevada,Email,Below SLA,40,Los Angeles/CA
+ACO-45490954-v-207215-H0,Jackie Rossbrook,Neutral,0,10-08-2020,8,Billing Question,Buffalo,New York,Web,Within SLA,6,Baltimore/MD
+ACO-74036498-L-833623-9F,Kiersten Feild,Very Negative,0,10-10-2020,10,Billing Question,Johnstown,Pennsylvania,Email,Within SLA,11,Los Angeles/CA
+ACP-72789209-h-980325-ef,Maude Staddom,Neutral,0,10-01-2020,1,Billing Question,Fort Worth,Texas,Web,Below SLA,17,Baltimore/MD
+ACP-97216480-Y-020641-3S,Johannah Geering,Negative,0,10-09-2020,9,Billing Question,Columbia,South Carolina,Call-Center,Above SLA,16,Los Angeles/CA
+ACQ-32837644-u-056238-6O,Beatrice Trahmel,Negative,0,10/13/2020,13,Billing Question,Orlando,Florida,Call-Center,Within SLA,14,Baltimore/MD
+ACQ-63385867-T-586347-Qy,Obidiah Shord,Positive,9,10/25/2020,25,Billing Question,Van Nuys,California,Email,Within SLA,41,Chicago/IL
+ACR-80565897-b-613567-DA,Luise Renneke,Positive,0,10/24/2020,24,Billing Question,Columbia,Missouri,Chatbot,Below SLA,23,Los Angeles/CA
+ACS-12661335-f-078409-Pb,Izabel McLaughlin,Negative,0,10-09-2020,9,Billing Question,Decatur,Georgia,Web,Within SLA,32,Los Angeles/CA
+ACS-55956340-x-732684-bs,Mannie Bonsey,Very Negative,0,10-02-2020,2,Payments,Charlotte,North Carolina,Call-Center,Below SLA,40,Los Angeles/CA
+ACT-48837150-S-621193-pZ,Tristam Coil,Negative,0,10/20/2020,20,Payments,Suffolk,Virginia,Call-Center,Below SLA,39,Los Angeles/CA
+ACU-24471158-A-087914-Da,Charley Wycliffe,Very Negative,0,10-05-2020,5,Billing Question,Dallas,Texas,Web,Within SLA,16,Los Angeles/CA
+ACU-36549849-2-800537-iB,Janet Longforth,Very Positive,9,10/19/2020,19,Billing Question,Naples,Florida,Call-Center,Above SLA,27,Baltimore/MD
+ACU-79982099-z-388574-23,Rollo Kobpac,Negative,6,10-11-2020,11,Service Outage,Kansas City,Kansas,Chatbot,Within SLA,26,Los Angeles/CA
+ACW-72345940-L-941852-PH,Devinne Girvin,Very Positive,0,10-06-2020,6,Payments,Albuquerque,New Mexico,Call-Center,Within SLA,25,Los Angeles/CA
+ACZ-05345443-p-062919-ZX,Winnie Casemore,Negative,0,10/16/2020,16,Service Outage,Memphis,Tennessee,Email,Below SLA,14,Los Angeles/CA
+ACZ-06564550-F-221698-KK,Concordia McChruiter,Neutral,8,10/29/2020,29,Service Outage,Colorado Springs,Colorado,Email,Within SLA,21,Los Angeles/CA
+ADA-13033039-t-872985-8V,Clary Wonfor,Negative,0,10/28/2020,28,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,34,Chicago/IL
+ADA-90095505-U-023645-HG,Jamal Stockoe,Negative,0,10/21/2020,21,Billing Question,Mansfield,Ohio,Call-Center,Within SLA,44,Baltimore/MD
+ADB-05896225-t-125420-6V,Jaymie Hatz,Very Negative,0,10-02-2020,2,Payments,Charleston,West Virginia,Call-Center,Below SLA,19,Baltimore/MD
+ADB-35798611-s-275848-v5,Rubetta Boadby,Negative,0,10-05-2020,5,Billing Question,Boise,Idaho,Email,Below SLA,37,Los Angeles/CA
+ADC-45000402-g-588813-Xo,Claudia Pester,Positive,0,10-11-2020,11,Billing Question,Des Moines,Iowa,Email,Within SLA,22,Los Angeles/CA
+ADD-13392511-Q-014777-rW,Ebeneser Inchan,Very Negative,0,10-07-2020,7,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,9,Los Angeles/CA
+ADD-22472215-6-867875-i9,Angil Klass,Neutral,0,10-12-2020,12,Billing Question,Cleveland,Ohio,Call-Center,Within SLA,39,Baltimore/MD
+ADD-29235481-v-379800-dd,Jemie Delos,Very Negative,0,10-01-2020,1,Billing Question,Springfield,Illinois,Email,Below SLA,25,Los Angeles/CA
+ADD-52461983-2-572581-j5,Margalit Libermore,Negative,4,10/18/2020,18,Billing Question,Saint Louis,Missouri,Chatbot,Within SLA,9,Los Angeles/CA
+ADD-82219259-r-882390-EG,Errol Follos,Neutral,0,10-12-2020,12,Billing Question,Fort Wayne,Indiana,Chatbot,Below SLA,35,Baltimore/MD
+ADF-61445458-U-129113-ou,Deina Hawtry,Negative,6,10-04-2020,4,Billing Question,Sparks,Nevada,Email,Below SLA,33,Los Angeles/CA
+ADF-90803392-E-455691-Tj,Betta Drury,Very Negative,1,10-06-2020,6,Billing Question,Washington,District of Columbia,Chatbot,Below SLA,9,Los Angeles/CA
+ADG-45990959-H-081803-lc,Gustie Sonnenschein,Very Negative,0,10/18/2020,18,Billing Question,Reading,Pennsylvania,Web,Within SLA,21,Baltimore/MD
+ADG-73733152-b-093036-S1,Eda Woolmer,Very Negative,2,10-07-2020,7,Service Outage,Columbus,Ohio,Email,Within SLA,44,Los Angeles/CA
+ADG-80178942-6-360880-Kx,Linea McCullen,Neutral,6,10/14/2020,14,Service Outage,Los Angeles,California,Chatbot,Below SLA,12,Los Angeles/CA
+ADH-19274891-H-651209-HD,Dewey Lemmer,Positive,0,10-12-2020,12,Billing Question,Miami,Florida,Email,Within SLA,11,Los Angeles/CA
+ADH-37770170-0-958992-RD,Rita Romayn,Negative,0,10-02-2020,2,Billing Question,Sacramento,California,Web,Within SLA,13,Los Angeles/CA
+ADH-97385838-o-100035-fC,Alicia Abramski,Negative,0,10-02-2020,2,Payments,Dallas,Texas,Call-Center,Within SLA,20,Baltimore/MD
+ADI-18403811-N-192452-GP,Zilvia Songist,Negative,0,10-05-2020,5,Service Outage,Albany,New York,Email,Within SLA,44,Chicago/IL
+ADI-74889604-y-862336-oi,Billy de Nore,Neutral,8,10/25/2020,25,Service Outage,Anaheim,California,Email,Within SLA,10,Baltimore/MD
+ADJ-32322659-b-817383-kb,Melosa Jillard,Negative,0,10/29/2020,29,Billing Question,Denver,Colorado,Web,Below SLA,44,Baltimore/MD
+ADJ-83296429-r-777675-Lp,Leroy Shallo,Very Positive,0,10-08-2020,8,Billing Question,Philadelphia,Pennsylvania,Chatbot,Within SLA,45,Los Angeles/CA
+ADK-01603771-H-849188-f0,Lynsey Jacobbe,Neutral,0,10-10-2020,10,Billing Question,Minneapolis,Minnesota,Web,Within SLA,44,Los Angeles/CA
+ADK-73015633-e-759286-IZ,Welsh Vennart,Very Positive,0,10-06-2020,6,Billing Question,Fort Lauderdale,Florida,Chatbot,Below SLA,29,Los Angeles/CA
+ADL-19198960-J-599511-az,Vladamir Cremer,Very Negative,0,10-08-2020,8,Billing Question,Knoxville,Tennessee,Call-Center,Within SLA,24,Chicago/IL
+ADL-47845173-7-572956-5A,Glyn Dasent,Very Negative,0,10/19/2020,19,Billing Question,New Orleans,Louisiana,Call-Center,Above SLA,29,Baltimore/MD
+ADM-66230424-f-920931-HG,Glori Schaffel,Neutral,5,10/27/2020,27,Billing Question,New Hyde Park,New York,Chatbot,Within SLA,14,Chicago/IL
+ADN-22075986-Q-809913-9j,Adelina Rawling,Very Negative,1,10/23/2020,23,Billing Question,Cincinnati,Ohio,Web,Within SLA,24,Los Angeles/CA
+ADN-27367985-q-844674-27,Robin Hungerford,Neutral,0,10-10-2020,10,Billing Question,Bakersfield,California,Call-Center,Within SLA,24,Baltimore/MD
+ADN-52338882-b-912477-9y,Ogdan De Metz,Neutral,0,10/23/2020,23,Billing Question,Minneapolis,Minnesota,Chatbot,Within SLA,44,Los Angeles/CA
+ADN-93495262-P-403085-qv,Sinclare Landsborough,Negative,0,10-08-2020,8,Billing Question,Erie,Pennsylvania,Email,Below SLA,16,Chicago/IL
+ADO-00229174-3-541377-bp,Jayne Pridgeon,Neutral,0,10-04-2020,4,Billing Question,Phoenix,Arizona,Email,Within SLA,28,Denver/CO
+ADO-50626427-g-426771-OU,Janene Dawidowitz,Negative,0,10-03-2020,3,Payments,Wilkes Barre,Pennsylvania,Call-Center,Within SLA,30,Baltimore/MD
+ADO-62752100-P-790257-Nn,Eolanda Borrett,Positive,0,10-01-2020,1,Payments,Lafayette,Indiana,Call-Center,Within SLA,22,Chicago/IL
+ADP-11456390-c-968117-qR,Jarrid Braidwood,Neutral,0,10/14/2020,14,Billing Question,Ann Arbor,Michigan,Call-Center,Above SLA,39,Baltimore/MD
+ADP-47736125-0-218367-aE,Harriet Gregersen,Positive,0,10/18/2020,18,Service Outage,Columbus,Ohio,Chatbot,Above SLA,19,Los Angeles/CA
+ADP-62492029-1-366599-AN,Sharline Ottley,Neutral,5,10-04-2020,4,Service Outage,Phoenix,Arizona,Web,Within SLA,7,Los Angeles/CA
+ADQ-01102459-C-100802-6n,Keelby Hoggins,Positive,7,10/27/2020,27,Billing Question,Charleston,South Carolina,Web,Within SLA,15,Chicago/IL
+ADQ-26875534-W-833106-Pf,Olivette Woodworth,Neutral,0,10/23/2020,23,Billing Question,Fort Pierce,Florida,Chatbot,Within SLA,23,Chicago/IL
+ADQ-60951223-W-879730-hD,Kennedy McCarter,Neutral,0,10-06-2020,6,Payments,Louisville,Kentucky,Call-Center,Within SLA,37,Los Angeles/CA
+ADR-26186331-g-025621-g6,Innis Barrand,Very Negative,1,10-11-2020,11,Billing Question,New Orleans,Louisiana,Chatbot,Within SLA,36,Baltimore/MD
+ADR-61258105-y-130822-pB,Clo Diaper,Very Positive,0,10/23/2020,23,Service Outage,Abilene,Texas,Chatbot,Within SLA,31,Baltimore/MD
+ADS-53199030-B-052642-0q,Sanford Germaine,Very Positive,0,10-01-2020,1,Payments,Shawnee Mission,Kansas,Call-Center,Within SLA,6,Baltimore/MD
+ADT-10463929-A-767058-zY,Virge Faber,Positive,0,10/30/2020,30,Service Outage,Augusta,Georgia,Chatbot,Within SLA,38,Los Angeles/CA
+ADT-49662460-q-151145-Pv,Darrelle Arnaudot,Neutral,6,10/17/2020,17,Payments,Inglewood,California,Call-Center,Above SLA,29,Baltimore/MD
+ADU-05799168-P-466644-LC,Winnifred Dofty,Negative,0,10-06-2020,6,Billing Question,Columbia,South Carolina,Web,Above SLA,28,Los Angeles/CA
+ADU-42681150-W-083842-8Y,Kelcie Dufton,Neutral,0,10/19/2020,19,Billing Question,Houston,Texas,Call-Center,Below SLA,10,Los Angeles/CA
+ADU-61674289-i-207474-QQ,Nappy Bonde,Negative,0,10-02-2020,2,Billing Question,Durham,North Carolina,Chatbot,Within SLA,35,Baltimore/MD
+ADV-23451765-w-845838-kh,Roxie Pinchback,Neutral,0,10/23/2020,23,Billing Question,Oklahoma City,Oklahoma,Email,Within SLA,29,Los Angeles/CA
+ADW-70560261-j-720935-0R,Rayshell Curtin,Very Negative,0,10/17/2020,17,Billing Question,Phoenix,Arizona,Call-Center,Within SLA,8,Baltimore/MD
+ADW-94940632-k-309232-CY,Tish Schafer,Neutral,6,10/27/2020,27,Payments,Nashville,Tennessee,Call-Center,Within SLA,25,Baltimore/MD
+ADX-06924715-V-504904-nN,Livvyy Sherrocks,Negative,0,10/29/2020,29,Billing Question,Baltimore,Maryland,Email,Below SLA,17,Los Angeles/CA
+ADX-29427632-Q-443251-Tr,Dillie Claessens,Very Positive,0,10/30/2020,30,Payments,Aurora,Colorado,Call-Center,Below SLA,11,Baltimore/MD
+ADY-43753917-3-394136-z4,Sammy Greening,Very Negative,1,10-07-2020,7,Payments,Salinas,California,Call-Center,Below SLA,21,Los Angeles/CA
+ADY-50905197-T-362556-D1,Yard Coe,Negative,0,10-01-2020,1,Service Outage,Temple,Texas,Email,Within SLA,25,Baltimore/MD
+ADY-79608592-0-592226-iC,Christoper Shutle,Neutral,0,10-02-2020,2,Service Outage,Peoria,Illinois,Email,Within SLA,31,Chicago/IL
+ADY-91463567-s-615634-v5,Nicolis Colbrun,Negative,0,10-03-2020,3,Billing Question,Oklahoma City,Oklahoma,Web,Within SLA,12,Los Angeles/CA
+ADZ-20624140-y-899608-Gj,Vin Mander,Very Positive,9,10-10-2020,10,Billing Question,Honolulu,Hawaii,Web,Within SLA,7,Baltimore/MD
+ADZ-56490816-x-821066-KX,Liz Hallows,Negative,4,10/19/2020,19,Billing Question,Elmira,New York,Email,Below SLA,7,Baltimore/MD
+ADZ-91787233-3-240500-cL,Benson Gostridge,Neutral,0,10-03-2020,3,Billing Question,El Paso,Texas,Email,Within SLA,16,Los Angeles/CA
+ADZ-92606518-J-557743-oC,Aline Chadd,Positive,0,10-12-2020,12,Billing Question,Washington,District of Columbia,Chatbot,Above SLA,16,Baltimore/MD
+AEA-46457261-W-839108-dq,Gerri Philp,Neutral,7,10-01-2020,1,Billing Question,Minneapolis,Minnesota,Web,Below SLA,17,Los Angeles/CA
+AEB-43797258-O-351518-lT,Mackenzie Fergie,Very Negative,1,10/27/2020,27,Billing Question,Hartford,Connecticut,Web,Above SLA,26,Baltimore/MD
+AEC-00168625-f-418467-H1,Neila Bicksteth,Very Positive,10,10/26/2020,26,Billing Question,Ocala,Florida,Call-Center,Within SLA,32,Los Angeles/CA
+AEC-02089597-L-649639-hb,Ginger Kellet,Negative,5,10/13/2020,13,Service Outage,Saint Louis,Missouri,Web,Within SLA,38,Baltimore/MD
+AEC-49271233-0-862817-OH,Alfredo Apple,Very Negative,4,10-04-2020,4,Billing Question,Atlanta,Georgia,Email,Within SLA,33,Chicago/IL
+AEC-75036859-k-280749-uv,Dee dee Dodworth,Negative,3,10-03-2020,3,Payments,Jacksonville,Florida,Call-Center,Below SLA,30,Baltimore/MD
+AEC-84032737-o-188133-4i,Pattin Cheshire,Neutral,5,10-12-2020,12,Billing Question,Honolulu,Hawaii,Email,Within SLA,12,Los Angeles/CA
+AED-56501249-l-944128-FI,Emilia Towndrow,Very Positive,9,10/26/2020,26,Payments,Brooklyn,New York,Call-Center,Within SLA,29,Los Angeles/CA
+AED-99008046-h-766475-5l,Cosetta Scoullar,Very Negative,0,10/27/2020,27,Billing Question,Anniston,Alabama,Email,Above SLA,32,Chicago/IL
+AEE-06933611-i-304319-Ne,Torr Barlow,Negative,0,10/23/2020,23,Service Outage,Spartanburg,South Carolina,Email,Above SLA,8,Los Angeles/CA
+AEE-50328652-I-593860-Tg,Dixie Salle,Neutral,6,10-02-2020,2,Billing Question,Jackson,Mississippi,Chatbot,Below SLA,18,Baltimore/MD
+AEE-50514765-Q-189865-xt,Dedie Strange,Neutral,0,10/13/2020,13,Billing Question,Spokane,Washington,Web,Within SLA,33,Chicago/IL
+AEE-57875108-O-361548-0X,Teddie Culpan,Negative,6,10-12-2020,12,Billing Question,New York City,New York,Call-Center,Within SLA,41,Baltimore/MD
+AEE-82839952-T-440486-9k,Amil Walczynski,Very Negative,2,10-11-2020,11,Service Outage,San Antonio,Texas,Email,Below SLA,19,Los Angeles/CA
+AEE-98156740-u-209777-j8,Meggy Rubie,Negative,5,10/19/2020,19,Billing Question,Saint Paul,Minnesota,Web,Within SLA,18,Baltimore/MD
+AEF-61893335-8-713447-Jw,Beaufort Kedward,Positive,9,10-03-2020,3,Service Outage,El Paso,Texas,Chatbot,Above SLA,39,Los Angeles/CA
+AEF-91897993-a-514853-If,Carmelita Jeannin,Very Negative,0,10/22/2020,22,Billing Question,Washington,District of Columbia,Chatbot,Below SLA,6,Chicago/IL
+AEG-44562797-2-350919-eJ,Latashia Marion,Very Positive,10,10/16/2020,16,Billing Question,Peoria,Illinois,Call-Center,Within SLA,19,Denver/CO
+AEG-66489281-u-107618-q4,Austina Rosenkranc,Neutral,8,10/28/2020,28,Billing Question,Lima,Ohio,Email,Within SLA,36,Los Angeles/CA
+AEG-87706830-c-434597-nN,Darrin Tomaszewicz,Negative,0,10-09-2020,9,Billing Question,West Palm Beach,Florida,Call-Center,Within SLA,37,Los Angeles/CA
+AEH-07318546-S-823879-OE,Shanna Switsur,Negative,0,10/15/2020,15,Billing Question,Fresno,California,Call-Center,Within SLA,8,Chicago/IL
+AEH-75038080-t-430792-YT,Trever Winspear,Neutral,8,10/28/2020,28,Billing Question,Fargo,North Dakota,Web,Within SLA,6,Baltimore/MD
+AEI-00763993-O-476027-EK,Ketti Agronski,Very Negative,1,10/15/2020,15,Payments,Winston Salem,North Carolina,Call-Center,Above SLA,25,Los Angeles/CA
+AEI-43024059-j-273938-4x,Tod Righy,Neutral,0,10-01-2020,1,Billing Question,San Francisco,California,Call-Center,Within SLA,10,Baltimore/MD
+AEI-49671564-j-546620-d4,Filberto Hassett,Neutral,0,10-04-2020,4,Billing Question,Atlanta,Georgia,Chatbot,Within SLA,17,Chicago/IL
+AEI-58369400-k-366035-FP,Arlee Gracewood,Very Negative,4,10-04-2020,4,Billing Question,Tucson,Arizona,Web,Above SLA,24,Chicago/IL
+AEJ-59414806-w-969268-Tj,Marcelle Birdwhistell,Positive,0,10/19/2020,19,Billing Question,Lexington,Kentucky,Web,Below SLA,40,Los Angeles/CA
+AEJ-83479940-N-569382-tX,Yolane Leppingwell,Very Positive,0,10/29/2020,29,Billing Question,Austin,Texas,Web,Within SLA,27,Baltimore/MD
+AEJ-91520410-r-380913-8r,Edita Estable,Neutral,0,10/30/2020,30,Billing Question,Charlotte,North Carolina,Email,Below SLA,8,Chicago/IL
+AEK-67451561-9-093115-xm,Goldina Medlar,Negative,5,10-11-2020,11,Billing Question,Cleveland,Ohio,Web,Within SLA,5,Los Angeles/CA
+AEK-94443758-B-071005-7o,Laurice Vasyagin,Positive,0,10/27/2020,27,Billing Question,Seminole,Florida,Chatbot,Within SLA,31,Los Angeles/CA
+AEN-11654157-b-673306-MS,Gayel Gyles,Negative,0,10/14/2020,14,Payments,White Plains,New York,Call-Center,Below SLA,20,Los Angeles/CA
+AEN-49354435-l-028442-aJ,Leonie Simeons,Negative,0,10-04-2020,4,Service Outage,Washington,District of Columbia,Chatbot,Below SLA,23,Baltimore/MD
+AEO-39110215-U-229251-L4,Adena Hughman,Negative,0,10-10-2020,10,Billing Question,Fresno,California,Call-Center,Within SLA,5,Denver/CO
+AEO-68156385-D-345696-zN,Clemmy Alvey,Neutral,0,10-07-2020,7,Payments,Cleveland,Ohio,Call-Center,Within SLA,38,Denver/CO
+AEP-51959850-K-876032-uj,Tiena Ternault,Negative,6,10-10-2020,10,Billing Question,Richmond,Virginia,Email,Within SLA,37,Chicago/IL
+AEP-60017336-8-343884-Al,Kerrie Powlesland,Very Negative,2,10/24/2020,24,Billing Question,Mobile,Alabama,Web,Within SLA,43,Denver/CO
+AEQ-03358892-c-197371-Jo,Grenville McCool,Negative,0,10/30/2020,30,Billing Question,Kansas City,Missouri,Email,Within SLA,19,Los Angeles/CA
+AEQ-92763061-a-310376-PC,Lissie Ashpole,Negative,0,10/29/2020,29,Service Outage,Pensacola,Florida,Chatbot,Above SLA,19,Los Angeles/CA
+AES-10431644-I-117868-cw,Karol Hassall,Negative,0,10-12-2020,12,Billing Question,New Orleans,Louisiana,Web,Above SLA,7,Denver/CO
+AES-28631689-m-213281-US,Verile Strut,Negative,0,10/20/2020,20,Payments,Richmond,California,Call-Center,Below SLA,41,Baltimore/MD
+AET-23997205-g-213302-eQ,Guilbert Trundell,Very Negative,4,10-12-2020,12,Service Outage,Glendale,Arizona,Email,Within SLA,32,Chicago/IL
+AET-47639934-U-808176-V0,Mariska L'Homme,Positive,0,10-01-2020,1,Billing Question,Portland,Oregon,Call-Center,Below SLA,45,Baltimore/MD
+AET-57003095-s-558723-z5,Ode Lomasny,Neutral,5,10/20/2020,20,Billing Question,Manchester,New Hampshire,Email,Above SLA,5,Baltimore/MD
+AET-83208612-X-432749-KM,Rianon Local,Positive,8,10-05-2020,5,Billing Question,Washington,District of Columbia,Chatbot,Below SLA,44,Baltimore/MD
+AET-86134590-K-960606-pr,Darnall Bulpitt,Neutral,0,10-01-2020,1,Billing Question,Biloxi,Mississippi,Call-Center,Within SLA,35,Chicago/IL
+AEU-51951105-v-000900-rx,Chicky Gurys,Positive,9,10-10-2020,10,Payments,Atlanta,Georgia,Call-Center,Within SLA,27,Los Angeles/CA
+AEU-56094449-l-531222-4J,Kippy Doige,Very Positive,0,10/25/2020,25,Billing Question,Tacoma,Washington,Call-Center,Above SLA,35,Los Angeles/CA
+AEU-72765141-h-786051-KQ,Tommy Spadoni,Positive,0,10-08-2020,8,Billing Question,Little Rock,Arkansas,Call-Center,Within SLA,43,Chicago/IL
+AEU-80520881-g-818421-bz,Nobie Palliser,Negative,3,10/27/2020,27,Payments,Peoria,Illinois,Call-Center,Within SLA,43,Los Angeles/CA
+AEV-68600772-I-743248-7I,Meggi Groger,Negative,0,10-08-2020,8,Billing Question,Louisville,Kentucky,Chatbot,Within SLA,19,Chicago/IL
+AEW-07227468-b-005377-mr,Neely Giraudou,Negative,0,10/26/2020,26,Payments,Philadelphia,Pennsylvania,Call-Center,Within SLA,33,Los Angeles/CA
+AEW-17661680-W-363946-QR,Elle Akroyd,Negative,0,10/22/2020,22,Billing Question,Des Moines,Iowa,Call-Center,Within SLA,39,Baltimore/MD
+AEW-19408750-v-994309-Gq,Cris Bottrill,Negative,0,10/13/2020,13,Service Outage,Roanoke,Virginia,Chatbot,Within SLA,20,Baltimore/MD
+AEW-97058330-P-033180-y1,Mikkel Lathwood,Neutral,0,10/18/2020,18,Billing Question,El Paso,Texas,Web,Below SLA,12,Los Angeles/CA
+AEX-93189997-h-770586-zo,Marybelle Syddall,Very Negative,0,10-11-2020,11,Service Outage,Denver,Colorado,Email,Below SLA,6,Los Angeles/CA
+AEY-56174170-8-929904-uy,Mel Emloch,Very Negative,2,10/21/2020,21,Billing Question,Sioux Falls,South Dakota,Chatbot,Within SLA,36,Los Angeles/CA
+AEZ-16828836-P-538867-Nr,Kathye McManus,Very Negative,2,10/17/2020,17,Billing Question,New York City,New York,Email,Below SLA,41,Los Angeles/CA
+AEZ-26390646-Z-813895-wN,Andrey Vasin,Very Negative,4,10-12-2020,12,Payments,Philadelphia,Pennsylvania,Call-Center,Within SLA,18,Los Angeles/CA
+AFA-05337289-b-902643-d9,Marshal Fevers,Very Positive,0,10-12-2020,12,Billing Question,Dearborn,Michigan,Chatbot,Within SLA,36,Los Angeles/CA
+AFA-91338253-X-544902-Wc,Wylma Ragsdall,Negative,5,10/13/2020,13,Billing Question,Fresno,California,Chatbot,Within SLA,21,Los Angeles/CA
+AFA-92102231-t-302932-vx,Gabbey Howgego,Very Negative,3,10-07-2020,7,Billing Question,Pittsburgh,Pennsylvania,Email,Within SLA,17,Denver/CO
+AFB-68346999-V-269925-aG,Hewe Ivashov,Neutral,0,10-11-2020,11,Billing Question,Cape Coral,Florida,Chatbot,Below SLA,39,Chicago/IL
+AFC-31217439-X-580261-rc,Sisile Glauber,Negative,0,10/26/2020,26,Billing Question,Houston,Texas,Email,Within SLA,38,Chicago/IL
+AFC-31287647-f-618830-JN,Xenos Bedder,Positive,8,10/22/2020,22,Billing Question,Mount Vernon,New York,Email,Below SLA,6,Denver/CO
+AFC-80065421-9-839898-WE,Idalia Nunnerley,Neutral,8,10/20/2020,20,Billing Question,Los Angeles,California,Web,Above SLA,39,Los Angeles/CA
+AFC-82594035-Z-895450-mN,Cookie Kitchaside,Negative,0,10/13/2020,13,Payments,Saint Louis,Missouri,Call-Center,Within SLA,23,Baltimore/MD
+AFD-11141484-W-051415-9p,Aggi Restall,Negative,0,10/28/2020,28,Payments,Cleveland,Ohio,Call-Center,Within SLA,29,Chicago/IL
+AFE-41091645-h-786610-T4,Alanna McCoish,Very Negative,0,10/20/2020,20,Billing Question,Saint Petersburg,Florida,Chatbot,Below SLA,34,Los Angeles/CA
+AFG-03600245-i-579535-w8,Riccardo Boribal,Negative,4,10-12-2020,12,Service Outage,Saint Paul,Minnesota,Web,Above SLA,38,Baltimore/MD
+AFH-55414603-N-936348-Ze,Teriann Ault,Positive,0,10/30/2020,30,Billing Question,Mobile,Alabama,Chatbot,Within SLA,28,Los Angeles/CA
+AFH-78384686-u-607805-lP,Agna Phelipeau,Negative,0,10-03-2020,3,Billing Question,Helena,Montana,Call-Center,Within SLA,27,Baltimore/MD
+AFH-79421058-K-489503-L4,Lind Desforges,Very Negative,0,10-03-2020,3,Billing Question,Atlanta,Georgia,Web,Within SLA,41,Los Angeles/CA
+AFJ-01933444-Z-864542-eN,Anatol Pallant,Neutral,0,10/21/2020,21,Service Outage,Philadelphia,Pennsylvania,Chatbot,Below SLA,15,Denver/CO
+AFK-82321802-R-686842-Rz,Jarid Ranscombe,Negative,0,10/17/2020,17,Payments,Pittsburgh,Pennsylvania,Call-Center,Within SLA,12,Baltimore/MD
+AFK-82624786-V-540921-oJ,Edgard Eggleton,Negative,0,10/14/2020,14,Billing Question,Boston,Massachusetts,Call-Center,Below SLA,23,Los Angeles/CA
+AFL-01987733-n-720106-6j,Abbey Husselbee,Very Negative,4,10/17/2020,17,Billing Question,Baton Rouge,Louisiana,Chatbot,Within SLA,9,Baltimore/MD
+AFL-05345176-5-893094-Xk,Aleksandr Cabane,Negative,0,10/17/2020,17,Service Outage,Fresno,California,Email,Above SLA,30,Los Angeles/CA
+AFL-18902859-Y-125437-DE,Zora Idill,Negative,0,10/14/2020,14,Service Outage,Bloomington,Indiana,Chatbot,Above SLA,5,Baltimore/MD
+AFL-24900389-M-679688-aX,Merrile Murford,Very Negative,0,10-10-2020,10,Billing Question,San Jose,California,Web,Within SLA,44,Baltimore/MD
+AFM-63308157-T-890343-Pp,Fredric Guthrum,Negative,4,10-08-2020,8,Billing Question,Honolulu,Hawaii,Call-Center,Below SLA,43,Chicago/IL
+AFM-93941306-0-604478-C0,Lyndsie Dysart,Negative,0,10/27/2020,27,Billing Question,Oklahoma City,Oklahoma,Web,Within SLA,44,Los Angeles/CA
+AFN-06613393-q-866019-bf,Chase Dachs,Negative,0,10-04-2020,4,Billing Question,Mansfield,Ohio,Email,Above SLA,35,Los Angeles/CA
+AFP-36710915-H-444891-y2,Mariette Balaisot,Neutral,0,10/24/2020,24,Billing Question,Washington,District of Columbia,Web,Within SLA,15,Los Angeles/CA
+AFQ-21180836-l-202073-p4,Prince Trewartha,Very Positive,9,10/13/2020,13,Billing Question,Jamaica,New York,Chatbot,Within SLA,45,Baltimore/MD
+AFR-21906968-w-117533-n8,Kirk Jencey,Positive,0,10/26/2020,26,Payments,Honolulu,Hawaii,Call-Center,Within SLA,42,Los Angeles/CA
+AFR-23286100-D-097378-Rj,Marcela Juliano,Positive,0,10/13/2020,13,Service Outage,Tacoma,Washington,Chatbot,Within SLA,27,Los Angeles/CA
+AFR-42691883-n-152608-m8,Ricki Escoffier,Neutral,0,10/28/2020,28,Billing Question,Oakland,California,Web,Below SLA,39,Los Angeles/CA
+AFS-30574981-P-254595-bN,Leonardo Ryrie,Very Negative,0,10/17/2020,17,Billing Question,Flint,Michigan,Email,Within SLA,38,Los Angeles/CA
+AFS-32490539-G-101963-5W,Vidovic Craighead,Very Negative,2,10-02-2020,2,Service Outage,Seattle,Washington,Chatbot,Within SLA,33,Baltimore/MD
+AFS-64505936-x-634559-yT,Billye Downing,Neutral,5,10/15/2020,15,Billing Question,Silver Spring,Maryland,Call-Center,Within SLA,26,Baltimore/MD
+AFU-01940145-5-366819-Xx,Rogers Limpertz,Very Negative,0,10/29/2020,29,Payments,Oklahoma City,Oklahoma,Call-Center,Above SLA,5,Baltimore/MD
+AFV-42977703-L-700374-iF,Edna Beneyto,Negative,0,10/29/2020,29,Billing Question,Baltimore,Maryland,Call-Center,Within SLA,38,Baltimore/MD
+AFV-62146363-W-354516-Cn,Meridel Blundin,Neutral,7,10/13/2020,13,Billing Question,Jamaica,New York,Web,Within SLA,10,Baltimore/MD
+AFW-57728092-4-132222-LS,Riccardo Stock,Negative,0,10-04-2020,4,Billing Question,El Paso,Texas,Call-Center,Within SLA,21,Denver/CO
+AFW-71280595-k-397518-Yx,Joelle Krzyzowski,Neutral,0,10-07-2020,7,Billing Question,Vancouver,Washington,Web,Within SLA,20,Baltimore/MD
+AFX-00514708-l-344109-rs,Sayres Clemes,Very Negative,4,10/22/2020,22,Billing Question,Loretto,Minnesota,Call-Center,Within SLA,36,Denver/CO
+AFX-78064525-3-508223-il,Xaviera Whickman,Very Negative,0,10/14/2020,14,Billing Question,New York City,New York,Web,Above SLA,40,Los Angeles/CA
+AFX-95708400-G-635254-A7,Camella Birtwhistle,Neutral,0,10/28/2020,28,Billing Question,New York City,New York,Call-Center,Above SLA,45,Los Angeles/CA
+AFY-15368899-U-530480-f1,Mufi Chate,Neutral,0,10/28/2020,28,Billing Question,Waltham,Massachusetts,Call-Center,Within SLA,37,Los Angeles/CA
+AFY-28083248-I-265230-MT,Lucie Genike,Very Negative,0,10-04-2020,4,Billing Question,El Paso,Texas,Chatbot,Below SLA,31,Chicago/IL
+AFY-87841666-w-793023-ev,Danyette Rosenshine,Neutral,6,10/23/2020,23,Billing Question,Kansas City,Kansas,Email,Within SLA,36,Denver/CO
+AGA-09317571-s-449599-S8,Lucina Duplock,Neutral,6,10/15/2020,15,Billing Question,Louisville,Kentucky,Call-Center,Within SLA,41,Baltimore/MD
+AGA-38136146-i-465445-Yv,Natale Venn,Neutral,6,10-01-2020,1,Billing Question,Evansville,Indiana,Email,Within SLA,13,Baltimore/MD
+AGB-03442335-j-756459-DM,Madison Lacknor,Neutral,6,10/30/2020,30,Payments,Las Vegas,Nevada,Call-Center,Within SLA,42,Baltimore/MD
+AGB-90847640-T-344401-6X,Madlen Stannus,Positive,9,10-05-2020,5,Payments,Petaluma,California,Call-Center,Below SLA,32,Los Angeles/CA
+AGD-24519953-j-550817-c4,Herbie Vaar,Very Positive,0,10/28/2020,28,Billing Question,Arlington,Texas,Email,Below SLA,37,Chicago/IL
+AGD-56475681-T-137640-HU,Aldis Moring,Very Negative,0,10-04-2020,4,Service Outage,Rochester,New York,Web,Within SLA,45,Denver/CO
+AGD-78747856-9-439347-6T,Rube Astill,Very Positive,0,10-01-2020,1,Billing Question,Amarillo,Texas,Call-Center,Within SLA,37,Baltimore/MD
+AGE-60515992-I-817797-Lo,Fraser Tire,Neutral,0,10/18/2020,18,Billing Question,Sparks,Nevada,Chatbot,Within SLA,19,Baltimore/MD
+AGE-78176662-w-131140-o1,Aksel Bryson,Very Positive,9,10/15/2020,15,Billing Question,Saint Paul,Minnesota,Email,Within SLA,43,Chicago/IL
+AGE-94453696-L-174918-Lz,Teodor Ollington,Very Negative,1,10-09-2020,9,Billing Question,Newport Beach,California,Chatbot,Below SLA,18,Baltimore/MD
+AGF-46998992-Z-490162-dT,Frasco Chifney,Negative,3,10-05-2020,5,Billing Question,Virginia Beach,Virginia,Call-Center,Below SLA,28,Denver/CO
+AGF-72909793-G-865281-Dz,Lizette Everest,Negative,0,10/24/2020,24,Billing Question,Jamaica,New York,Email,Below SLA,8,Baltimore/MD
+AGF-80829408-t-329547-H9,Fredra Gerok,Very Negative,0,10/25/2020,25,Payments,Toledo,Ohio,Call-Center,Within SLA,9,Los Angeles/CA
+AGG-17324626-k-924013-UV,Crichton Ayerst,Very Negative,0,10-05-2020,5,Billing Question,Dallas,Texas,Email,Within SLA,11,Chicago/IL
+AGH-11636598-e-028360-yZ,Carly Gueste,Neutral,0,10/22/2020,22,Billing Question,Fort Worth,Texas,Chatbot,Within SLA,16,Baltimore/MD
+AGH-91524655-J-016760-9P,Brear Dobrovolny,Neutral,0,10-09-2020,9,Service Outage,East Saint Louis,Illinois,Chatbot,Within SLA,14,Los Angeles/CA
+AGI-63094926-O-058916-rL,Teressa Corbally,Very Negative,1,10-06-2020,6,Payments,Spokane,Washington,Call-Center,Below SLA,25,Baltimore/MD
+AGJ-05298229-2-615469-pa,Philly Siemianowicz,Negative,3,10/23/2020,23,Billing Question,San Diego,California,Web,Within SLA,25,Chicago/IL
+AGJ-60335765-Y-906379-2t,Glyn Cavet,Positive,8,10/19/2020,19,Billing Question,Brooklyn,New York,Chatbot,Below SLA,17,Los Angeles/CA
+AGJ-80307414-m-265517-58,Shea Daglish,Neutral,5,10/29/2020,29,Billing Question,Toledo,Ohio,Email,Below SLA,15,Chicago/IL
+AGK-32957512-Z-724684-7E,Joli Kitcat,Positive,0,10-07-2020,7,Billing Question,Salt Lake City,Utah,Chatbot,Within SLA,20,Los Angeles/CA
+AGL-18926193-m-791969-dh,Charity Costar,Negative,0,10/23/2020,23,Billing Question,Palo Alto,California,Call-Center,Within SLA,45,Baltimore/MD
+AGL-75758388-y-240453-Hl,Gonzalo Denisot,Neutral,0,10-11-2020,11,Payments,Miami,Florida,Call-Center,Within SLA,12,Los Angeles/CA
+AGM-07962859-y-405566-9V,Albert Berrington,Negative,0,10-01-2020,1,Service Outage,Baton Rouge,Louisiana,Chatbot,Above SLA,34,Baltimore/MD
+AGM-88915008-O-509778-U7,Leoine Raisher,Negative,4,10/19/2020,19,Billing Question,Shawnee Mission,Kansas,Chatbot,Above SLA,29,Baltimore/MD
+AGN-26103304-F-738996-4D,Moina Wakes,Neutral,6,10/23/2020,23,Payments,Boston,Massachusetts,Call-Center,Within SLA,25,Baltimore/MD
+AGN-43272684-K-721591-Uu,Imojean Settle,Negative,0,10-05-2020,5,Service Outage,Louisville,Kentucky,Email,Within SLA,6,Los Angeles/CA
+AGP-93469228-H-066327-Ak,Nerti Challace,Negative,0,10/22/2020,22,Service Outage,New Orleans,Louisiana,Chatbot,Below SLA,22,Baltimore/MD
+AGQ-44969894-R-787840-fp,Ruthi Guildford,Positive,7,10-05-2020,5,Service Outage,San Bernardino,California,Email,Within SLA,39,Los Angeles/CA
+AGQ-46731838-r-896406-Gc,Curtice Heeps,Very Negative,0,10-04-2020,4,Billing Question,Indianapolis,Indiana,Web,Within SLA,38,Los Angeles/CA
+AGQ-53669503-w-647194-vX,Lennard Melbourn,Neutral,5,10-12-2020,12,Billing Question,Tucson,Arizona,Web,Below SLA,32,Chicago/IL
+AGQ-86386389-R-129210-t6,Rhoda Bartolomieu,Positive,0,10/24/2020,24,Service Outage,Juneau,Alaska,Chatbot,Within SLA,31,Los Angeles/CA
+AGR-47307649-h-965336-AP,Marla Antonetti,Negative,0,10-02-2020,2,Service Outage,Greensboro,North Carolina,Chatbot,Within SLA,31,Los Angeles/CA
+AGR-76721696-n-629597-bk,Ferrell Cowcha,Very Negative,0,10/20/2020,20,Billing Question,Minneapolis,Minnesota,Chatbot,Above SLA,33,Los Angeles/CA
+AGS-30315774-j-278035-9O,Allie Braitling,Positive,9,10/16/2020,16,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,13,Los Angeles/CA
+AGT-43256196-v-223990-jm,Aube Jaan,Positive,0,10-06-2020,6,Service Outage,Toledo,Ohio,Chatbot,Above SLA,29,Los Angeles/CA
+AGT-62403746-P-013285-8G,Annabela Flicker,Neutral,5,10/15/2020,15,Billing Question,Fullerton,California,Chatbot,Within SLA,17,Denver/CO
+AGT-63562125-L-600440-5x,Egan Shade,Negative,6,10-09-2020,9,Billing Question,Baltimore,Maryland,Web,Within SLA,41,Chicago/IL
+AGT-73800468-r-870982-Tl,Mignonne Coulbeck,Positive,7,10-01-2020,1,Billing Question,Orlando,Florida,Email,Within SLA,11,Denver/CO
+AGT-80464850-S-315895-rf,Shay Gandar,Very Positive,9,10/21/2020,21,Billing Question,Sacramento,California,Chatbot,Within SLA,18,Baltimore/MD
+AGU-96993389-q-904313-yg,Brady Bartot,Positive,0,10/21/2020,21,Billing Question,Oakland,California,Call-Center,Below SLA,31,Chicago/IL
+AGV-82599455-i-565760-Va,Kinna Embra,Negative,0,10-09-2020,9,Service Outage,Boston,Massachusetts,Chatbot,Within SLA,43,Los Angeles/CA
+AGW-10068468-a-224613-EQ,Dory Martlew,Very Positive,0,10/29/2020,29,Billing Question,Pittsburgh,Pennsylvania,Chatbot,Above SLA,32,Los Angeles/CA
+AGW-23792834-k-555644-Oz,Lucy Dives,Neutral,0,10-12-2020,12,Billing Question,El Paso,Texas,Call-Center,Within SLA,11,Baltimore/MD
+AGW-57484603-o-010582-cz,Kittie Gaffney,Positive,0,10/17/2020,17,Billing Question,Kansas City,Missouri,Chatbot,Within SLA,8,Baltimore/MD
+AGW-71605126-x-848666-rk,Marlie Dodridge,Very Positive,10,10/30/2020,30,Billing Question,Toledo,Ohio,Call-Center,Above SLA,45,Los Angeles/CA
+AGX-03295696-j-625340-Dt,Estevan Labbez,Neutral,0,10-10-2020,10,Billing Question,Orlando,Florida,Call-Center,Within SLA,10,Denver/CO
+AGX-52341640-8-012394-51,Clemmy Planque,Very Positive,0,10/23/2020,23,Billing Question,Boise,Idaho,Chatbot,Within SLA,17,Los Angeles/CA
+AGX-79640692-7-100627-x4,Torrie Wann,Negative,0,10-04-2020,4,Billing Question,Lexington,Kentucky,Email,Below SLA,25,Chicago/IL
+AGX-80219844-g-277851-Qh,Colly Redgewell,Neutral,5,10/13/2020,13,Billing Question,Frederick,Maryland,Call-Center,Within SLA,8,Baltimore/MD
+AGX-85259377-x-322019-m1,Austen Melliard,Positive,7,10/15/2020,15,Service Outage,Morgantown,West Virginia,Chatbot,Within SLA,8,Los Angeles/CA
+AGX-90483714-5-252133-9K,Douglas Hurich,Negative,0,10/13/2020,13,Billing Question,Miami,Florida,Call-Center,Within SLA,30,Los Angeles/CA
+AGY-80850036-E-468219-ia,Donnie Joannic,Very Negative,1,10/24/2020,24,Billing Question,Orange,California,Email,Within SLA,35,Los Angeles/CA
+AGZ-36541366-b-670113-FR,Nikaniki Burfoot,Positive,0,10/29/2020,29,Billing Question,Asheville,North Carolina,Chatbot,Within SLA,40,Baltimore/MD
+AHA-14206276-R-580019-Bo,Kissiah Walicki,Negative,0,10-11-2020,11,Billing Question,Saint Augustine,Florida,Email,Within SLA,18,Chicago/IL
+AHB-67606889-S-942778-AX,Carla Slayford,Neutral,0,10-10-2020,10,Service Outage,Tulsa,Oklahoma,Email,Within SLA,15,Baltimore/MD
+AHB-75378428-A-736943-6o,Julee Yapp,Negative,3,10/26/2020,26,Billing Question,Birmingham,Alabama,Call-Center,Within SLA,31,Baltimore/MD
+AHD-26187744-b-385606-Gr,Merrielle Sainsbury,Neutral,0,10-04-2020,4,Billing Question,Saint Paul,Minnesota,Chatbot,Below SLA,25,Los Angeles/CA
+AHD-60667522-3-992166-Dp,Malinde Schrei,Very Negative,1,10-01-2020,1,Billing Question,Baton Rouge,Louisiana,Chatbot,Within SLA,29,Los Angeles/CA
+AHD-84388580-Y-991165-W0,Jessalyn Jacobowitz,Negative,3,10/21/2020,21,Billing Question,Olympia,Washington,Chatbot,Below SLA,38,Los Angeles/CA
+AHD-97144048-1-102143-Ux,Libbey O'Fallowne,Very Positive,9,10/17/2020,17,Billing Question,Hartford,Connecticut,Call-Center,Below SLA,6,Chicago/IL
+AHE-35995237-W-294264-pu,Claudina Pinckstone,Neutral,0,10/16/2020,16,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,39,Chicago/IL
+AHF-79281501-1-374586-nv,Cyrille Pearson,Very Positive,0,10/15/2020,15,Billing Question,Newark,New Jersey,Email,Below SLA,29,Baltimore/MD
+AHF-92860554-C-888345-Lc,Antonio Hizir,Neutral,0,10/19/2020,19,Billing Question,Dallas,Texas,Email,Within SLA,25,Chicago/IL
+AHG-72040808-J-703860-co,Loreen Lander,Negative,3,10/24/2020,24,Billing Question,Austin,Texas,Email,Below SLA,45,Los Angeles/CA
+AHG-97230196-2-488315-LI,Ayn Barme,Neutral,0,10-04-2020,4,Billing Question,Wichita,Kansas,Call-Center,Within SLA,34,Los Angeles/CA
+AHH-58407502-d-862644-3z,Isadore Lejeune,Very Negative,2,10/24/2020,24,Service Outage,Sarasota,Florida,Chatbot,Below SLA,27,Chicago/IL
+AHH-82865519-O-189543-cX,Bernadette Hirth,Negative,0,10-12-2020,12,Service Outage,Augusta,Georgia,Email,Within SLA,7,Los Angeles/CA
+AHI-75322844-f-234785-fw,Garfield Hamber,Negative,0,10-02-2020,2,Billing Question,Bonita Springs,Florida,Web,Within SLA,33,Chicago/IL
+AHJ-58020130-r-174004-9J,Diann Grioli,Negative,0,10-11-2020,11,Service Outage,Mountain View,California,Email,Below SLA,41,Baltimore/MD
+AHJ-66217897-T-966100-pS,Ronda Middup,Neutral,8,10-07-2020,7,Billing Question,Indianapolis,Indiana,Email,Below SLA,20,Baltimore/MD
+AHJ-93969442-x-325752-c1,Meara Hallede,Negative,0,10/29/2020,29,Billing Question,Gulfport,Mississippi,Web,Within SLA,35,Baltimore/MD
+AHK-49391876-g-842368-9S,Kriste Rame,Very Negative,4,10/23/2020,23,Billing Question,Loretto,Minnesota,Chatbot,Within SLA,39,Chicago/IL
+AHL-76531458-K-654243-Ml,Moyna McRitchie,Neutral,0,10/16/2020,16,Billing Question,Louisville,Kentucky,Email,Within SLA,43,Los Angeles/CA
+AHL-91468967-y-183013-pz,Ahmed Moroney,Negative,4,10/21/2020,21,Service Outage,Atlanta,Georgia,Chatbot,Within SLA,21,Denver/CO
+AHM-24123303-f-232159-Iy,Penny Wehden,Very Negative,0,10-10-2020,10,Billing Question,Charleston,West Virginia,Email,Within SLA,6,Baltimore/MD
+AHM-49115584-f-252548-L7,Kristien Banaszkiewicz,Positive,8,10/14/2020,14,Billing Question,Jacksonville,Florida,Chatbot,Below SLA,34,Los Angeles/CA
+AHN-89993411-N-591560-9Q,Deane Rissen,Neutral,0,10/27/2020,27,Billing Question,Brockton,Massachusetts,Email,Below SLA,38,Los Angeles/CA
+AHO-32210067-X-829725-04,Beryle Fortin,Very Positive,9,10/29/2020,29,Billing Question,Toledo,Ohio,Web,Above SLA,25,Chicago/IL
+AHO-75345530-z-255970-ZP,Eugene Greder,Very Positive,0,10-05-2020,5,Billing Question,Daytona Beach,Florida,Web,Within SLA,30,Los Angeles/CA
+AHO-97376991-2-982770-9y,Marlene Caughte,Neutral,0,10-04-2020,4,Billing Question,San Jose,California,Web,Within SLA,26,Baltimore/MD
+AHP-70385893-V-602272-Al,Ebba Marking,Negative,5,10/30/2020,30,Billing Question,Manassas,Virginia,Email,Within SLA,12,Baltimore/MD
+AHQ-18083366-1-231888-mF,Eustace Rollings,Negative,0,10/13/2020,13,Billing Question,Monroe,Louisiana,Call-Center,Below SLA,39,Chicago/IL
+AHQ-89937719-g-523534-kr,Alikee Laborde,Negative,0,10-09-2020,9,Billing Question,Marietta,Georgia,Email,Within SLA,28,Los Angeles/CA
+AHR-02286575-o-112605-Ns,Ettie Cassel,Neutral,8,10/21/2020,21,Payments,Tulsa,Oklahoma,Call-Center,Below SLA,25,Chicago/IL
+AHR-59641215-5-039222-xG,Herrick Cawkill,Very Negative,1,10/28/2020,28,Billing Question,Baton Rouge,Louisiana,Chatbot,Within SLA,22,Chicago/IL
+AHR-86243550-Q-808797-YH,Joli Simmens,Positive,0,10/22/2020,22,Service Outage,Chicago,Illinois,Email,Within SLA,5,Denver/CO
+AHS-16714386-M-407455-We,Antoni Ower,Very Negative,0,10/28/2020,28,Service Outage,Peoria,Illinois,Web,Within SLA,20,Baltimore/MD
+AHS-98690342-o-041256-l3,Raimundo Longdon,Neutral,5,10-12-2020,12,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,23,Los Angeles/CA
+AHT-32182110-g-661113-kv,Merissa Dance,Negative,0,10/18/2020,18,Billing Question,Young America,Minnesota,Email,Within SLA,43,Chicago/IL
+AHT-58202296-N-143913-B0,Karlen Danilyak,Neutral,8,10-02-2020,2,Billing Question,Colorado Springs,Colorado,Chatbot,Within SLA,15,Baltimore/MD
+AHU-74474919-h-032493-mW,Miltie Goodhall,Negative,0,10/22/2020,22,Billing Question,Fresno,California,Web,Within SLA,41,Baltimore/MD
+AHV-20073997-P-777168-5e,Stan Kelcey,Negative,0,10-05-2020,5,Billing Question,Austin,Texas,Web,Within SLA,41,Los Angeles/CA
+AHV-55133008-1-514379-Ci,William Jakolevitch,Very Negative,0,10/25/2020,25,Service Outage,Phoenix,Arizona,Email,Within SLA,34,Los Angeles/CA
+AHV-81170824-g-831875-0u,Willette Drakes,Negative,0,10/18/2020,18,Billing Question,Baltimore,Maryland,Email,Below SLA,29,Los Angeles/CA
+AHW-95640379-t-817291-l4,Faith Gamwell,Negative,4,10-05-2020,5,Billing Question,Waco,Texas,Email,Within SLA,20,Baltimore/MD
+AHX-08352703-i-000842-RP,Yorgos Sheahan,Very Negative,1,10/23/2020,23,Service Outage,Milwaukee,Wisconsin,Email,Below SLA,40,Los Angeles/CA
+AHX-23134707-V-910819-XR,Eolande McGivena,Negative,0,10/13/2020,13,Billing Question,Wilmington,Delaware,Chatbot,Below SLA,25,Denver/CO
+AHX-41930143-B-693279-EZ,Garrek Newsham,Positive,0,10/29/2020,29,Service Outage,Elmira,New York,Email,Within SLA,37,Baltimore/MD
+AHY-26798197-C-370619-iq,Aron Fidgett,Neutral,6,10-09-2020,9,Service Outage,Zephyrhills,Florida,Chatbot,Within SLA,26,Baltimore/MD
+AHZ-72542828-K-040805-bT,Sybille Vasilchikov,Neutral,8,10/26/2020,26,Billing Question,Baton Rouge,Louisiana,Call-Center,Below SLA,19,Baltimore/MD
+AIA-57949287-w-795890-rB,Carrie Noah,Very Negative,1,10/19/2020,19,Billing Question,Gainesville,Florida,Call-Center,Within SLA,38,Los Angeles/CA
+AIA-90152691-i-584321-bR,Teodoor Schumacher,Very Negative,0,10-10-2020,10,Billing Question,Houston,Texas,Email,Within SLA,27,Los Angeles/CA
+AIB-27248729-4-253116-Jz,Zsa zsa Agott,Very Negative,0,10-06-2020,6,Billing Question,Miami,Florida,Call-Center,Within SLA,38,Los Angeles/CA
+AIC-11166289-j-265990-EO,Yanaton Gittoes,Negative,0,10/20/2020,20,Billing Question,Boulder,Colorado,Call-Center,Within SLA,23,Baltimore/MD
+AIC-87421183-R-827432-jZ,Gina Helleckas,Very Negative,0,10-07-2020,7,Billing Question,Jefferson City,Missouri,Web,Within SLA,25,Denver/CO
+AID-50984309-3-968935-wu,Roslyn Rean,Negative,0,10-06-2020,6,Service Outage,San Antonio,Texas,Chatbot,Within SLA,15,Chicago/IL
+AIE-01114432-B-593873-XV,Dorena Huerta,Neutral,0,10-09-2020,9,Billing Question,Dallas,Texas,Chatbot,Within SLA,15,Chicago/IL
+AIE-19187092-I-602575-Ni,Ernest Kondratenya,Neutral,0,10-11-2020,11,Billing Question,College Station,Texas,Chatbot,Within SLA,38,Los Angeles/CA
+AIE-20004940-a-920124-vk,Ozzie Cavill,Negative,0,10/24/2020,24,Billing Question,Columbia,Missouri,Call-Center,Above SLA,17,Baltimore/MD
+AIE-89204753-h-274978-dW,Alvin Marskell,Very Positive,0,10-01-2020,1,Billing Question,Tulsa,Oklahoma,Chatbot,Within SLA,20,Los Angeles/CA
+AIF-05876052-7-844733-LQ,Janis Brannigan,Very Negative,0,10-07-2020,7,Payments,Monticello,Minnesota,Call-Center,Within SLA,27,Los Angeles/CA
+AIF-87924268-3-543357-ik,Ursula Geane,Positive,7,10/30/2020,30,Payments,Saint Louis,Missouri,Call-Center,Above SLA,36,Los Angeles/CA
+AIF-94709159-o-499126-iP,Amata Feldmus,Very Negative,4,10/19/2020,19,Billing Question,Dallas,Texas,Call-Center,Above SLA,20,Baltimore/MD
+AIG-50712617-X-263128-kn,Renaldo Claque,Very Negative,1,10/15/2020,15,Billing Question,Birmingham,Alabama,Email,Within SLA,16,Chicago/IL
+AIG-55998053-a-970906-TZ,Kliment Yapp,Neutral,6,10/22/2020,22,Billing Question,Fresno,California,Email,Below SLA,19,Chicago/IL
+AIH-40441790-l-569865-BF,Filmer Diviny,Positive,0,10/20/2020,20,Billing Question,Manassas,Virginia,Chatbot,Within SLA,26,Denver/CO
+AIH-49843994-J-934510-RU,Garnet Terry,Neutral,0,10-08-2020,8,Service Outage,Chicago,Illinois,Chatbot,Below SLA,33,Denver/CO
+AIJ-73370296-O-926174-kL,Sebastian Astill,Negative,0,10/19/2020,19,Payments,Carol Stream,Illinois,Call-Center,Within SLA,20,Chicago/IL
+AIL-08349310-i-371665-oH,Ella Garnham,Negative,0,10/30/2020,30,Payments,Houston,Texas,Call-Center,Below SLA,37,Denver/CO
+AIL-21152814-d-948025-n4,Evvy Strodder,Very Negative,0,10-09-2020,9,Billing Question,Atlanta,Georgia,Chatbot,Below SLA,18,Los Angeles/CA
+AIL-32579851-G-364452-rC,Inessa Phippard,Negative,0,10/22/2020,22,Billing Question,Yakima,Washington,Web,Within SLA,37,Los Angeles/CA
+AIL-40194170-K-492850-ie,Blisse Wardhaw,Very Negative,1,10/28/2020,28,Billing Question,Pensacola,Florida,Chatbot,Below SLA,26,Los Angeles/CA
+AIM-02501879-e-662933-w3,Alexei Svanini,Positive,9,10/19/2020,19,Billing Question,Seattle,Washington,Chatbot,Within SLA,29,Los Angeles/CA
+AIM-57760889-h-503609-Ap,Cullan Paradyce,Negative,3,10-10-2020,10,Service Outage,Orlando,Florida,Web,Below SLA,19,Baltimore/MD
+AIN-29110775-H-534958-CL,Say Calvert,Very Positive,0,10/14/2020,14,Billing Question,Seattle,Washington,Chatbot,Below SLA,9,Chicago/IL
+AIP-40317993-f-409477-sB,Benjamen Bottrell,Neutral,8,10/16/2020,16,Payments,Jamaica,New York,Call-Center,Below SLA,26,Los Angeles/CA
+AIQ-13858749-i-736581-NW,Cullen Skirrow,Neutral,7,10-11-2020,11,Payments,Omaha,Nebraska,Call-Center,Within SLA,39,Los Angeles/CA
+AIQ-24508474-J-245210-yo,Ethelin McCool,Positive,0,10/25/2020,25,Billing Question,Chicago,Illinois,Call-Center,Within SLA,20,Baltimore/MD
+AIQ-50641647-Y-638688-Sb,De Yeskin,Very Positive,0,10/23/2020,23,Billing Question,Gastonia,North Carolina,Chatbot,Within SLA,12,Baltimore/MD
+AIQ-62535193-U-681149-9V,Rahal Hawket,Negative,0,10/22/2020,22,Billing Question,Tampa,Florida,Email,Within SLA,13,Los Angeles/CA
+AIQ-75413229-1-313628-u2,Janeta Breyt,Neutral,0,10/25/2020,25,Billing Question,Orange,California,Web,Within SLA,29,Baltimore/MD
+AIR-01348194-H-721019-dH,Claresta Scamadin,Negative,0,10/18/2020,18,Billing Question,Paterson,New Jersey,Call-Center,Within SLA,35,Baltimore/MD
+AIR-05955354-j-454404-ft,Sancho Stonham,Negative,0,10-01-2020,1,Billing Question,Jamaica,New York,Email,Within SLA,33,Los Angeles/CA
+AIR-37410576-l-677241-5e,Celesta Vodden,Very Negative,1,10/27/2020,27,Billing Question,New York City,New York,Call-Center,Within SLA,32,Chicago/IL
+AIR-61184965-B-650303-q0,Hagen Rentelll,Negative,3,10/24/2020,24,Billing Question,Kansas City,Missouri,Call-Center,Above SLA,24,Los Angeles/CA
+AIT-03204849-u-527617-hw,Bradley Aronowitz,Very Negative,3,10/15/2020,15,Payments,Madison,Wisconsin,Call-Center,Within SLA,20,Los Angeles/CA
+AIT-53744243-g-248933-XX,Breanne Blasoni,Negative,0,10-05-2020,5,Billing Question,Arlington,Texas,Chatbot,Below SLA,13,Denver/CO
+AIT-61813654-Z-632072-oQ,Kat Roswarne,Negative,5,10-01-2020,1,Billing Question,Birmingham,Alabama,Call-Center,Within SLA,18,Los Angeles/CA
+AIT-96330717-j-597210-yd,Maribeth Bosdet,Negative,0,10-10-2020,10,Billing Question,Ventura,California,Web,Within SLA,5,Los Angeles/CA
+AIU-87143352-F-558604-W6,Benedetto Gierck,Positive,9,10/28/2020,28,Billing Question,Oakland,California,Call-Center,Within SLA,25,Chicago/IL
+AIV-70264825-g-336031-Yb,Gerry Strevens,Neutral,7,10/13/2020,13,Billing Question,El Paso,Texas,Chatbot,Below SLA,37,Los Angeles/CA
+AIW-12164337-k-374009-jI,Tiphani Crowden,Very Negative,0,10/23/2020,23,Billing Question,Norfolk,Virginia,Email,Below SLA,22,Chicago/IL
+AIX-34560628-a-402039-On,Janeta Loder,Very Positive,0,10/24/2020,24,Billing Question,Charlotte,North Carolina,Call-Center,Below SLA,43,Baltimore/MD
+AIX-60834746-2-797099-dz,Ab Bugdell,Very Negative,0,10-08-2020,8,Billing Question,Los Angeles,California,Web,Within SLA,14,Chicago/IL
+AIX-64842660-h-427011-KH,Biddie Gillow,Positive,9,10-02-2020,2,Billing Question,Dallas,Texas,Chatbot,Above SLA,35,Chicago/IL
+AIY-05392337-d-505535-7a,Wilek Drynan,Negative,4,10/16/2020,16,Service Outage,Gainesville,Florida,Chatbot,Within SLA,29,Los Angeles/CA
+AIY-05789882-n-132668-SQ,Kathe Legister,Positive,0,10/28/2020,28,Billing Question,Baltimore,Maryland,Call-Center,Above SLA,21,Baltimore/MD
+AIY-23597029-C-399120-pS,Gusti Craigmile,Neutral,6,10-05-2020,5,Service Outage,Duluth,Minnesota,Email,Within SLA,29,Chicago/IL
+AIZ-77983274-F-666637-rD,Marcello Barrows,Negative,3,10-02-2020,2,Billing Question,Cincinnati,Ohio,Chatbot,Within SLA,13,Chicago/IL
+AIZ-82753235-V-841345-Z2,Ewen Longland,Very Negative,1,10-10-2020,10,Billing Question,Hampton,Virginia,Web,Within SLA,16,Los Angeles/CA
+AJA-01407040-d-670666-Oh,Koralle McCourt,Very Positive,9,10-06-2020,6,Billing Question,Lees Summit,Missouri,Chatbot,Below SLA,32,Chicago/IL
+AJA-48171746-T-788722-VL,Bernadette Boughton,Neutral,0,10/18/2020,18,Billing Question,Houston,Texas,Web,Within SLA,45,Los Angeles/CA
+AJA-81601427-o-265585-Dc,Dannel Vowels,Neutral,6,10/21/2020,21,Billing Question,Oklahoma City,Oklahoma,Email,Within SLA,8,Los Angeles/CA
+AJB-61443594-K-097157-i9,Arda Pridding,Negative,0,10-09-2020,9,Billing Question,Springfield,Massachusetts,Chatbot,Below SLA,14,Chicago/IL
+AJB-78522294-m-346396-QL,Kial Slemmonds,Neutral,8,10/24/2020,24,Billing Question,Daytona Beach,Florida,Chatbot,Within SLA,38,Baltimore/MD
+AJC-00720232-M-611257-4b,Mattias Rignold,Positive,0,10/27/2020,27,Payments,North Las Vegas,Nevada,Call-Center,Within SLA,5,Denver/CO
+AJC-34459629-G-011266-rQ,Abbey Whistlecroft,Very Negative,0,10/20/2020,20,Payments,Bronx,New York,Call-Center,Below SLA,15,Baltimore/MD
+AJC-36215054-X-944575-7o,Salomi Ivasyushkin,Positive,7,10-06-2020,6,Billing Question,Washington,District of Columbia,Web,Below SLA,29,Los Angeles/CA
+AJC-59846755-T-246897-KV,Dorolice Walas,Very Negative,1,10/23/2020,23,Service Outage,Miami,Florida,Web,Within SLA,15,Los Angeles/CA
+AJC-97966013-y-000555-1w,Perren Antczak,Neutral,0,10/16/2020,16,Billing Question,Knoxville,Tennessee,Chatbot,Within SLA,24,Chicago/IL
+AJD-74959948-K-377537-66,Caprice Elan,Negative,4,10-07-2020,7,Billing Question,Dallas,Texas,Chatbot,Below SLA,30,Baltimore/MD
+AJE-56244361-7-061588-b9,Chiquia Bastick,Negative,0,10-12-2020,12,Payments,Young America,Minnesota,Call-Center,Above SLA,36,Baltimore/MD
+AJE-60168671-P-152568-O3,Blisse Portugal,Negative,4,10-06-2020,6,Billing Question,Inglewood,California,Chatbot,Within SLA,21,Baltimore/MD
+AJE-72070727-8-022468-Qd,Renaud Deveraux,Neutral,0,10/13/2020,13,Billing Question,Amarillo,Texas,Web,Above SLA,9,Baltimore/MD
+AJF-10178673-I-311710-Fh,Rutherford Champain,Negative,0,10/13/2020,13,Payments,Anchorage,Alaska,Call-Center,Below SLA,10,Baltimore/MD
+AJF-59483277-8-781969-yR,Kylila Linfitt,Neutral,0,10/29/2020,29,Service Outage,Florence,South Carolina,Email,Below SLA,19,Los Angeles/CA
+AJF-59870982-2-287904-Cx,Wesley MacPaik,Negative,0,10-08-2020,8,Billing Question,Kalamazoo,Michigan,Email,Within SLA,45,Los Angeles/CA
+AJF-75012182-K-212513-Yu,Derrek Klementz,Negative,0,10/20/2020,20,Payments,Des Moines,Iowa,Call-Center,Below SLA,45,Los Angeles/CA
+AJF-78028680-9-536390-pq,Zarah Pierson,Negative,0,10/20/2020,20,Billing Question,Houston,Texas,Call-Center,Within SLA,29,Baltimore/MD
+AJG-58257292-T-420038-q6,Mortie Wattins,Positive,0,10/28/2020,28,Billing Question,Van Nuys,California,Email,Within SLA,9,Los Angeles/CA
+AJG-71538120-M-561026-vL,Adoree Dargan,Neutral,0,10/30/2020,30,Payments,Pomona,California,Call-Center,Within SLA,13,Chicago/IL
+AJJ-39470973-x-479444-zD,Rois Iozefovich,Very Positive,9,10-01-2020,1,Service Outage,Tucson,Arizona,Email,Above SLA,7,Los Angeles/CA
+AJK-43786585-w-974435-B0,Morena Smithend,Very Negative,0,10-06-2020,6,Billing Question,Austin,Texas,Web,Within SLA,21,Los Angeles/CA
+AJL-08642524-Z-122315-fl,Keefe Bulman,Neutral,0,10-11-2020,11,Payments,Richmond,Virginia,Call-Center,Within SLA,23,Los Angeles/CA
+AJL-32610635-E-456046-ry,Leonore Tennet,Very Negative,0,10/20/2020,20,Service Outage,Buffalo,New York,Chatbot,Below SLA,42,Baltimore/MD
+AJL-38099542-b-394015-L5,Natala Ockleshaw,Very Negative,2,10/29/2020,29,Billing Question,Pittsburgh,Pennsylvania,Email,Within SLA,32,Los Angeles/CA
+AJL-71410620-H-811217-43,Derk Coghlin,Positive,9,10-06-2020,6,Billing Question,Abilene,Texas,Email,Within SLA,42,Los Angeles/CA
+AJM-02341795-3-992433-nU,Nev Eddins,Neutral,0,10-03-2020,3,Service Outage,Washington,District of Columbia,Email,Below SLA,19,Baltimore/MD
+AJM-09968809-T-735284-wN,Rickert Thaw,Neutral,0,10/15/2020,15,Billing Question,Charleston,South Carolina,Email,Within SLA,5,Los Angeles/CA
+AJM-62694116-A-034989-lT,Lara Downse,Negative,0,10/17/2020,17,Billing Question,Decatur,Georgia,Call-Center,Within SLA,15,Los Angeles/CA
+AJM-93509300-h-973716-vb,Alex Annell,Negative,0,10-08-2020,8,Billing Question,New Haven,Connecticut,Email,Below SLA,15,Los Angeles/CA
+AJN-18025055-L-020693-Vd,Ashlan Argont,Neutral,0,10-03-2020,3,Billing Question,Burbank,California,Email,Within SLA,12,Chicago/IL
+AJN-18986889-N-574986-sW,Neil Hatrey,Negative,0,10-09-2020,9,Payments,Charlotte,North Carolina,Call-Center,Within SLA,15,Los Angeles/CA
+AJN-19974187-C-309532-di,Deb Yushkov,Neutral,0,10/13/2020,13,Billing Question,Las Vegas,Nevada,Call-Center,Within SLA,6,Los Angeles/CA
+AJN-35711807-O-141816-Ob,Padraic Winthrop,Negative,5,10-10-2020,10,Payments,Jamaica,New York,Call-Center,Below SLA,43,Los Angeles/CA
+AJN-52761030-C-752813-by,Fina Eve,Negative,0,10-08-2020,8,Billing Question,Houston,Texas,Chatbot,Below SLA,41,Chicago/IL
+AJP-21945544-J-248080-Nf,Margalo Cicetti,Neutral,5,10/21/2020,21,Billing Question,Tulsa,Oklahoma,Web,Within SLA,15,Los Angeles/CA
+AJR-00654870-f-331827-lc,Marlo Klimuk,Negative,0,10-04-2020,4,Billing Question,Round Rock,Texas,Web,Within SLA,19,Chicago/IL
+AJR-10564366-v-087450-jw,Kaye Wofenden,Negative,5,10-11-2020,11,Billing Question,Athens,Georgia,Call-Center,Within SLA,5,Baltimore/MD
+AJR-17558413-G-784951-Ph,Raffaello Rixon,Neutral,0,10/30/2020,30,Billing Question,Alexandria,Virginia,Call-Center,Below SLA,27,Los Angeles/CA
+AJS-38455425-X-343992-XZ,Diandra Schelle,Positive,0,10-01-2020,1,Billing Question,Lawrenceville,Georgia,Call-Center,Below SLA,8,Baltimore/MD
+AJS-66104291-n-166869-ZM,Tobi O'Corr,Negative,0,10/26/2020,26,Payments,Clearwater,Florida,Call-Center,Below SLA,40,Chicago/IL
+AJU-67885459-c-823237-pm,Lia Papis,Negative,0,10/29/2020,29,Billing Question,Ocala,Florida,Chatbot,Below SLA,18,Chicago/IL
+AJV-50158446-M-969770-o5,Aldo Stote,Very Negative,0,10-10-2020,10,Service Outage,Kalamazoo,Michigan,Email,Below SLA,32,Baltimore/MD
+AJV-50484142-a-171768-sv,Rhett Pudding,Negative,0,10/21/2020,21,Service Outage,Austin,Texas,Email,Within SLA,13,Los Angeles/CA
+AJW-28230355-D-349947-V2,Morse Rawood,Neutral,0,10/22/2020,22,Payments,Corpus Christi,Texas,Call-Center,Within SLA,25,Los Angeles/CA
+AJW-37644818-Y-854940-O5,Mordecai Waslin,Neutral,7,10/14/2020,14,Billing Question,Kalamazoo,Michigan,Call-Center,Below SLA,45,Baltimore/MD
+AJX-26505871-k-532916-F1,Sharla Downe,Negative,4,10-01-2020,1,Billing Question,Las Vegas,Nevada,Chatbot,Above SLA,19,Baltimore/MD
+AJX-80811765-R-662170-05,Fiona Lates,Neutral,5,10-08-2020,8,Billing Question,Fort Worth,Texas,Web,Above SLA,10,Baltimore/MD
+AJY-15234371-5-781135-uq,Celie Proud,Very Negative,0,10-06-2020,6,Billing Question,San Mateo,California,Chatbot,Within SLA,30,Los Angeles/CA
+AJY-62072071-w-422758-wF,Lonni Shapter,Negative,0,10/20/2020,20,Billing Question,Honolulu,Hawaii,Web,Within SLA,8,Los Angeles/CA
+AJY-80806620-x-656649-xI,Sinclair Christley,Very Positive,10,10/30/2020,30,Billing Question,Bethlehem,Pennsylvania,Web,Above SLA,15,Baltimore/MD
+AJZ-00934694-i-919630-cv,Garrard Pracy,Very Negative,0,10/29/2020,29,Billing Question,Atlanta,Georgia,Email,Within SLA,37,Baltimore/MD
+AJZ-44504344-w-401484-6v,Normand Jonczyk,Neutral,0,10/21/2020,21,Payments,Port Charlotte,Florida,Call-Center,Within SLA,15,Los Angeles/CA
+AJZ-53738524-C-795812-pn,Dehlia Pendlebery,Negative,0,10/15/2020,15,Billing Question,Detroit,Michigan,Call-Center,Within SLA,8,Baltimore/MD
+AKA-01691330-P-984724-wB,Mamie Tiron,Very Negative,0,10-08-2020,8,Service Outage,Louisville,Kentucky,Chatbot,Within SLA,40,Chicago/IL
+AKA-14352042-T-534158-pI,Clevie Anchor,Very Negative,0,10/19/2020,19,Billing Question,North Hollywood,California,Email,Within SLA,35,Denver/CO
+AKA-21920111-n-057542-f2,Jaquith Losseljong,Neutral,0,10-09-2020,9,Billing Question,Austin,Texas,Call-Center,Within SLA,22,Baltimore/MD
+AKA-43251428-j-422624-Ov,Borden Ellison,Neutral,5,10/21/2020,21,Payments,Rochester,New York,Call-Center,Above SLA,34,Baltimore/MD
+AKA-49461618-j-349355-nN,Bartie Strowger,Negative,5,10/24/2020,24,Billing Question,Louisville,Kentucky,Email,Within SLA,9,Baltimore/MD
+AKA-59218649-j-754797-pV,Baillie Duffil,Positive,0,10-04-2020,4,Service Outage,Amarillo,Texas,Chatbot,Within SLA,22,Los Angeles/CA
+AKB-17773370-1-007722-Fj,Eugenius Verny,Negative,0,10/17/2020,17,Billing Question,Saint Louis,Missouri,Email,Within SLA,36,Denver/CO
+AKC-80961653-9-373582-FK,Claude Corradengo,Very Positive,10,10/17/2020,17,Billing Question,Anaheim,California,Chatbot,Within SLA,14,Los Angeles/CA
+AKD-04496535-q-024584-XS,Darcy Carlaw,Positive,0,10/23/2020,23,Billing Question,Albuquerque,New Mexico,Chatbot,Within SLA,8,Baltimore/MD
+AKE-40771714-E-100356-D8,Bondon Nawton,Negative,0,10/23/2020,23,Billing Question,Kansas City,Missouri,Call-Center,Within SLA,25,Baltimore/MD
+AKE-54154742-I-602671-j1,Will Rolin,Negative,0,10/22/2020,22,Billing Question,Los Angeles,California,Email,Within SLA,29,Baltimore/MD
+AKE-56396925-x-686125-7Y,Lodovico Morrallee,Very Positive,0,10-06-2020,6,Payments,Denver,Colorado,Call-Center,Within SLA,9,Baltimore/MD
+AKF-19066622-4-439765-NW,Austina Ianelli,Very Negative,0,10/14/2020,14,Billing Question,Lakeland,Florida,Web,Below SLA,11,Los Angeles/CA
+AKF-33777260-W-879845-Aw,Koressa Colquite,Negative,0,10-04-2020,4,Billing Question,Long Beach,California,Web,Within SLA,10,Los Angeles/CA
+AKF-48477787-c-292058-8C,Obediah Jerzycowski,Neutral,6,10-09-2020,9,Billing Question,Raleigh,North Carolina,Call-Center,Within SLA,34,Baltimore/MD
+AKH-08886725-y-872864-Ur,Odele Andriuzzi,Negative,3,10-05-2020,5,Billing Question,Toledo,Ohio,Email,Within SLA,14,Baltimore/MD
+AKH-09188149-F-181266-cl,Abel Rawsthorne,Very Negative,1,10/24/2020,24,Billing Question,Cincinnati,Ohio,Call-Center,Within SLA,8,Chicago/IL
+AKJ-52995407-g-492649-i4,Torin Doyle,Negative,5,10-05-2020,5,Service Outage,Baltimore,Maryland,Email,Within SLA,11,Los Angeles/CA
+AKK-45900153-S-700408-eI,Gayla Harmstone,Neutral,0,10/24/2020,24,Service Outage,New York City,New York,Chatbot,Below SLA,18,Denver/CO
+AKK-54459521-f-016145-Vi,Kelila O'Neary,Very Positive,9,10-12-2020,12,Billing Question,Fort Worth,Texas,Email,Within SLA,38,Denver/CO
+AKK-73890460-i-828015-iO,Allister Ealam,Negative,0,10/25/2020,25,Billing Question,Stockton,California,Chatbot,Below SLA,30,Los Angeles/CA
+AKL-16280670-2-536158-qS,Hastings Huckleby,Very Negative,0,10-01-2020,1,Billing Question,Houston,Texas,Email,Below SLA,14,Chicago/IL
+AKL-29259747-b-463420-ZJ,Kimmy Spinke,Very Negative,0,10/30/2020,30,Billing Question,Pueblo,Colorado,Web,Within SLA,17,Denver/CO
+AKL-42476517-a-362058-cR,Cyrill Gatch,Negative,4,10-03-2020,3,Billing Question,Nashville,Tennessee,Chatbot,Within SLA,29,Chicago/IL
+AKL-70569895-H-610941-s5,Toni Osmint,Very Negative,1,10/21/2020,21,Billing Question,San Francisco,California,Chatbot,Below SLA,10,Baltimore/MD
+AKM-12040878-H-432388-vt,Roddy Wootton,Negative,4,10/25/2020,25,Billing Question,New York City,New York,Call-Center,Below SLA,40,Los Angeles/CA
+AKM-47164308-L-055121-oV,Rutledge Flecknell,Neutral,6,10/26/2020,26,Service Outage,Sacramento,California,Web,Within SLA,45,Los Angeles/CA
+AKM-79188466-8-061955-GZ,Tamra Pickworth,Negative,5,10-07-2020,7,Billing Question,Sacramento,California,Email,Below SLA,33,Baltimore/MD
+AKM-82025257-X-004454-50,Tandie Spitell,Positive,9,10-06-2020,6,Payments,Spokane,Washington,Call-Center,Below SLA,29,Los Angeles/CA
+AKN-61090163-N-836085-GG,Kerr Belsey,Negative,0,10-06-2020,6,Billing Question,Columbus,Ohio,Web,Within SLA,20,Baltimore/MD
+AKN-63017415-o-719452-dK,Mattias Stych,Very Negative,0,10/26/2020,26,Billing Question,Buffalo,New York,Web,Below SLA,14,Los Angeles/CA
+AKO-91957890-D-060078-1a,Jania Potier,Neutral,5,10/28/2020,28,Billing Question,Fairfax,Virginia,Email,Within SLA,32,Baltimore/MD
+AKP-08392053-Z-267103-S7,Alika Keasley,Negative,0,10/17/2020,17,Billing Question,Charleston,South Carolina,Email,Above SLA,33,Los Angeles/CA
+AKP-16532127-o-368477-7z,Tabbie De Vuyst,Very Negative,0,10-06-2020,6,Billing Question,Jamaica,New York,Email,Within SLA,29,Chicago/IL
+AKP-81550731-9-173503-Aa,Torrie Thiolier,Negative,0,10/14/2020,14,Service Outage,Richmond,Virginia,Email,Within SLA,30,Chicago/IL
+AKP-84425142-K-474632-Hs,Penrod Borrott,Very Negative,0,10/21/2020,21,Billing Question,Bloomington,Indiana,Web,Above SLA,40,Baltimore/MD
+AKP-87356260-z-181341-UG,Hermione Cowtherd,Very Positive,9,10-09-2020,9,Billing Question,Duluth,Georgia,Email,Within SLA,39,Los Angeles/CA
+AKQ-09547545-e-175473-al,Juanita Willetts,Neutral,0,10-04-2020,4,Billing Question,Tacoma,Washington,Chatbot,Within SLA,25,Los Angeles/CA
+AKQ-87733760-Y-901918-ZX,Brnaby Loisi,Very Negative,0,10/24/2020,24,Billing Question,Schaumburg,Illinois,Email,Above SLA,6,Los Angeles/CA
+AKR-56615628-r-550928-Ua,Querida Crocetti,Negative,0,10/22/2020,22,Billing Question,Hollywood,Florida,Web,Within SLA,21,Los Angeles/CA
+AKR-65436919-i-749586-p4,Renaud Blakeslee,Positive,0,10-07-2020,7,Billing Question,Pittsburgh,Pennsylvania,Chatbot,Within SLA,8,Baltimore/MD
+AKR-66232136-w-877600-yO,Donnie Langfield,Neutral,0,10/27/2020,27,Billing Question,Washington,District of Columbia,Email,Within SLA,29,Los Angeles/CA
+AKS-14139594-0-294993-qU,Brendan Nurden,Positive,0,10-08-2020,8,Billing Question,Orlando,Florida,Web,Below SLA,40,Chicago/IL
+AKT-40842277-y-522988-0T,Ethel Payler,Very Positive,0,10-02-2020,2,Billing Question,Fresno,California,Email,Above SLA,18,Baltimore/MD
+AKT-42097889-8-313108-8K,Raoul Ryott,Very Positive,9,10-12-2020,12,Billing Question,Dallas,Texas,Email,Within SLA,16,Los Angeles/CA
+AKT-95215803-g-602379-T4,Jeffy Ramsdale,Very Positive,0,10-11-2020,11,Billing Question,Saint Paul,Minnesota,Web,Within SLA,36,Los Angeles/CA
+AKU-11809230-l-295921-4R,Park Habert,Positive,0,10/27/2020,27,Billing Question,Washington,District of Columbia,Web,Within SLA,37,Los Angeles/CA
+AKU-25502083-s-919745-TM,Itch Papa,Neutral,0,10/13/2020,13,Billing Question,Chandler,Arizona,Call-Center,Within SLA,12,Los Angeles/CA
+AKU-71577853-W-120615-JM,Alix Rump,Neutral,6,10-02-2020,2,Billing Question,New York City,New York,Call-Center,Above SLA,5,Los Angeles/CA
+AKV-24413224-o-937249-50,Jeffry Cobden,Neutral,7,10/20/2020,20,Billing Question,Waterloo,Iowa,Web,Below SLA,13,Chicago/IL
+AKV-55955726-h-952278-6f,Caresa Planks,Negative,6,10-02-2020,2,Billing Question,Long Beach,California,Call-Center,Above SLA,40,Baltimore/MD
+AKV-81375559-h-845814-ms,Irwin Chittim,Very Negative,0,10-05-2020,5,Billing Question,Laurel,Maryland,Chatbot,Within SLA,22,Los Angeles/CA
+AKV-86996107-J-120734-iK,Tasha Board,Negative,6,10/14/2020,14,Service Outage,Fort Worth,Texas,Email,Within SLA,17,Baltimore/MD
+AKW-19403279-K-422217-kr,Dore Woolens,Positive,0,10/22/2020,22,Billing Question,Reading,Pennsylvania,Web,Within SLA,25,Baltimore/MD
+AKW-41325100-a-481029-WD,Rhodie Domingues,Neutral,0,10/21/2020,21,Payments,Chula Vista,California,Call-Center,Within SLA,12,Chicago/IL
+AKW-52470370-I-241994-I1,Flemming Colville,Negative,0,10/22/2020,22,Billing Question,Columbus,Georgia,Call-Center,Within SLA,12,Chicago/IL
+AKW-55851126-N-214319-E2,Xerxes Peerless,Positive,7,10-06-2020,6,Billing Question,Albuquerque,New Mexico,Web,Within SLA,21,Denver/CO
+AKX-79677073-1-804727-AO,Daria Sands-Allan,Neutral,0,10/21/2020,21,Billing Question,Arlington,Texas,Call-Center,Above SLA,27,Los Angeles/CA
+AKY-36179461-X-956633-ty,Van Vasyunin,Neutral,5,10-07-2020,7,Billing Question,Carol Stream,Illinois,Email,Below SLA,30,Los Angeles/CA
+AKZ-06816409-z-430807-mU,Aridatha Vatini,Very Positive,0,10/13/2020,13,Payments,Louisville,Kentucky,Call-Center,Below SLA,21,Baltimore/MD
+AKZ-34257226-3-362145-E1,Dorella Cordery,Negative,6,10/25/2020,25,Billing Question,Roanoke,Virginia,Call-Center,Within SLA,20,Los Angeles/CA
+AKZ-74297857-2-857061-nu,Sanson Chanders,Negative,0,10/29/2020,29,Billing Question,Davenport,Iowa,Web,Above SLA,8,Los Angeles/CA
+ALB-29524025-J-287042-yJ,Lethia Yanshonok,Negative,0,10/14/2020,14,Payments,Jacksonville,Florida,Call-Center,Within SLA,5,Chicago/IL
+ALB-52229088-b-483405-T2,Laurie Innerstone,Neutral,0,10/15/2020,15,Service Outage,Richmond,Virginia,Email,Below SLA,31,Baltimore/MD
+ALB-86651735-L-867764-ps,Elvina Collison,Negative,0,10-07-2020,7,Payments,Newark,New Jersey,Call-Center,Within SLA,44,Baltimore/MD
+ALB-88847517-q-521444-WP,Art Blanchard,Neutral,8,10-02-2020,2,Billing Question,Lynchburg,Virginia,Web,Within SLA,34,Los Angeles/CA
+ALC-35533249-k-344400-eU,Ciro Gorstidge,Positive,8,10/24/2020,24,Billing Question,Miami,Florida,Chatbot,Within SLA,25,Baltimore/MD
+ALC-42875045-F-195151-Wr,Nefen Fassum,Negative,3,10/28/2020,28,Billing Question,Milwaukee,Wisconsin,Email,Above SLA,37,Los Angeles/CA
+ALD-65704599-Z-183665-0N,Cathyleen Lindberg,Negative,6,10-12-2020,12,Billing Question,Chicago,Illinois,Web,Above SLA,5,Los Angeles/CA
+ALE-78634337-U-164512-Zn,Elli Mackleden,Very Positive,0,10/25/2020,25,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,10,Chicago/IL
+ALF-27893646-K-352629-IA,Dayna Drei,Neutral,0,10-02-2020,2,Billing Question,Tampa,Florida,Chatbot,Within SLA,34,Los Angeles/CA
+ALF-36699347-a-303651-PC,Dunn Hatherleigh,Positive,0,10/28/2020,28,Payments,Bradenton,Florida,Call-Center,Within SLA,39,Baltimore/MD
+ALF-73194819-D-460347-t0,Laurice Drance,Very Negative,1,10-06-2020,6,Billing Question,Anchorage,Alaska,Email,Below SLA,20,Los Angeles/CA
+ALG-02200154-E-574397-As,Lauri Legat,Negative,0,10-04-2020,4,Billing Question,Pompano Beach,Florida,Email,Below SLA,13,Chicago/IL
+ALG-19278054-u-021573-Re,Domenico Murgatroyd,Negative,0,10/24/2020,24,Billing Question,Lansing,Michigan,Email,Within SLA,41,Baltimore/MD
+ALG-59662676-o-400132-oS,Pryce Moggach,Neutral,0,10-11-2020,11,Payments,Charlotte,North Carolina,Call-Center,Within SLA,45,Denver/CO
+ALG-86062902-o-396131-oi,Olag Davenhill,Negative,4,10-11-2020,11,Service Outage,Newark,New Jersey,Email,Below SLA,35,Los Angeles/CA
+ALH-78590701-B-225904-68,Sunny Nansom,Very Negative,1,10/24/2020,24,Billing Question,Baltimore,Maryland,Call-Center,Below SLA,42,Baltimore/MD
+ALH-93278643-E-644678-y5,Emeline Piddock,Positive,0,10/23/2020,23,Billing Question,Visalia,California,Call-Center,Within SLA,30,Los Angeles/CA
+ALH-94158215-3-035840-Xh,Lenore Scoffins,Very Negative,0,10/13/2020,13,Billing Question,Portsmouth,Virginia,Web,Within SLA,35,Los Angeles/CA
+ALJ-06390959-f-355218-VB,Christophe Morson,Negative,0,10/29/2020,29,Service Outage,Fresno,California,Web,Within SLA,27,Denver/CO
+ALJ-28092999-k-021964-zv,Reina Grimmett,Negative,0,10/22/2020,22,Payments,Muncie,Indiana,Call-Center,Within SLA,38,Denver/CO
+ALJ-91701626-z-608998-Qm,Libby Bront,Very Negative,0,10/17/2020,17,Payments,Sacramento,California,Call-Center,Within SLA,37,Los Angeles/CA
+ALK-41337370-J-159996-N7,Peggie Grimshaw,Negative,0,10/29/2020,29,Billing Question,Johnson City,Tennessee,Web,Within SLA,12,Los Angeles/CA
+ALM-42717707-y-233712-jM,Jaimie Blankett,Neutral,7,10/30/2020,30,Payments,Boston,Massachusetts,Call-Center,Below SLA,22,Los Angeles/CA
+ALN-19195034-v-413912-31,Parsifal Fydo,Negative,0,10-10-2020,10,Payments,Daytona Beach,Florida,Call-Center,Above SLA,23,Los Angeles/CA
+ALP-07052169-p-073214-AD,Rebeka Merrington,Positive,8,10/29/2020,29,Payments,Duluth,Minnesota,Call-Center,Within SLA,14,Baltimore/MD
+ALR-64334270-B-854931-Qr,Stavro Gerhartz,Very Positive,0,10-11-2020,11,Billing Question,Las Vegas,Nevada,Web,Within SLA,44,Los Angeles/CA
+ALS-38063569-s-477567-Bb,Harriett Vannoni,Negative,3,10-08-2020,8,Billing Question,Springfield,Illinois,Web,Within SLA,29,Chicago/IL
+ALS-74428073-o-360816-MI,Ange Seago,Negative,0,10-09-2020,9,Billing Question,Washington,District of Columbia,Call-Center,Above SLA,37,Denver/CO
+ALS-99272391-n-113563-4z,Beatrice Riggulsford,Very Positive,0,10/15/2020,15,Billing Question,Huntington Beach,California,Email,Below SLA,10,Chicago/IL
+ALT-63130064-a-267396-IE,Penny Harsnep,Very Negative,0,10/20/2020,20,Billing Question,Washington,District of Columbia,Web,Within SLA,31,Chicago/IL
+ALW-29564461-f-660296-gn,Shani Hayes,Neutral,0,10/18/2020,18,Billing Question,Pompano Beach,Florida,Email,Within SLA,9,Chicago/IL
+ALW-84564166-F-974123-OF,Jacklin Greenough,Negative,0,10/16/2020,16,Billing Question,Vero Beach,Florida,Email,Within SLA,41,Los Angeles/CA
+ALW-96069209-F-588448-rs,Jemie Titcumb,Positive,0,10/29/2020,29,Billing Question,Albuquerque,New Mexico,Email,Below SLA,12,Los Angeles/CA
+ALX-02791571-m-235685-yJ,Joni Theriot,Negative,4,10/27/2020,27,Service Outage,Gainesville,Florida,Email,Below SLA,39,Los Angeles/CA
+ALX-05636322-V-509287-KX,Mozelle Pulhoster,Neutral,5,10/22/2020,22,Payments,Fort Worth,Texas,Call-Center,Below SLA,17,Los Angeles/CA
+ALX-58322042-B-871982-Gt,Irina Downing,Very Negative,0,10/22/2020,22,Billing Question,Richmond,Virginia,Email,Within SLA,35,Baltimore/MD
+ALX-71798742-e-777402-m6,Ardra Rupel,Negative,0,10/23/2020,23,Billing Question,Fort Wayne,Indiana,Chatbot,Within SLA,6,Los Angeles/CA
+ALX-97504487-h-390441-6w,Ernie Dunsmore,Positive,8,10-07-2020,7,Billing Question,Salem,Oregon,Call-Center,Below SLA,42,Baltimore/MD
+ALY-21338162-O-704336-P6,Ilysa Cathcart,Negative,0,10/18/2020,18,Billing Question,Beaumont,Texas,Email,Within SLA,37,Los Angeles/CA
+ALY-59907312-l-938544-9D,Olag Rannie,Negative,0,10/28/2020,28,Billing Question,San Diego,California,Email,Within SLA,16,Baltimore/MD
+ALY-85318796-W-486545-m0,Etta Richardt,Neutral,0,10-03-2020,3,Billing Question,Stockton,California,Email,Within SLA,44,Denver/CO
+AMA-42228281-g-721000-TC,Baryram Feacham,Neutral,6,10-10-2020,10,Payments,Huntington,West Virginia,Call-Center,Below SLA,33,Denver/CO
+AMA-84166640-J-364825-jb,Karlens Curston,Negative,5,10/13/2020,13,Payments,Charlotte,North Carolina,Call-Center,Below SLA,38,Los Angeles/CA
+AMD-01447622-1-538007-Kn,Betsy Bugg,Very Negative,0,10/29/2020,29,Billing Question,Lexington,Kentucky,Chatbot,Within SLA,40,Chicago/IL
+AME-26239606-2-904904-kA,Carlie Grissett,Negative,4,10/29/2020,29,Billing Question,Daytona Beach,Florida,Email,Above SLA,10,Baltimore/MD
+AMF-21814318-D-767710-AB,Rolando Leal,Very Negative,0,10/13/2020,13,Payments,Topeka,Kansas,Call-Center,Above SLA,24,Denver/CO
+AMF-40724077-O-166268-Xy,Demetra Swalwell,Negative,0,10/15/2020,15,Billing Question,Cheyenne,Wyoming,Call-Center,Within SLA,38,Los Angeles/CA
+AMG-60393756-9-539565-0B,Joyous Simonite,Neutral,0,10/27/2020,27,Service Outage,Dallas,Texas,Chatbot,Below SLA,28,Baltimore/MD
+AMG-62668121-W-407758-uT,Aubrey McGrowther,Positive,9,10-12-2020,12,Billing Question,New York City,New York,Chatbot,Below SLA,13,Chicago/IL
+AMH-35242613-P-759172-w4,Ritchie Garwell,Negative,3,10/19/2020,19,Payments,Washington,District of Columbia,Call-Center,Below SLA,13,Los Angeles/CA
+AMH-62351074-U-670285-sn,Jervis Crosseland,Neutral,0,10-06-2020,6,Service Outage,Anderson,Indiana,Email,Within SLA,30,Baltimore/MD
+AMH-96419471-P-375007-tQ,Mira Andrusyak,Very Negative,0,10/15/2020,15,Service Outage,Chicago,Illinois,Chatbot,Above SLA,30,Chicago/IL
+AMI-71857579-Y-401098-UO,Pace Cissen,Very Negative,0,10-01-2020,1,Billing Question,Wichita,Kansas,Web,Below SLA,34,Baltimore/MD
+AMJ-19841046-K-051620-d7,Irita Cleef,Negative,5,10/15/2020,15,Billing Question,Tampa,Florida,Web,Within SLA,21,Baltimore/MD
+AMK-66775240-o-718460-0Q,Luci Doog,Very Positive,0,10/29/2020,29,Billing Question,Washington,District of Columbia,Web,Below SLA,6,Baltimore/MD
+AMK-87032076-D-215210-v0,Joycelin Jobson,Negative,4,10-10-2020,10,Billing Question,Brockton,Massachusetts,Email,Within SLA,27,Denver/CO
+AML-00518995-m-877950-jt,Crysta Colquhoun,Neutral,6,10/27/2020,27,Service Outage,Seminole,Florida,Web,Within SLA,35,Baltimore/MD
+AML-06307939-V-628821-aR,Carlin Screase,Negative,3,10/16/2020,16,Billing Question,Young America,Minnesota,Web,Within SLA,41,Los Angeles/CA
+AML-23654090-i-700834-zx,Paula Fippe,Positive,0,10-11-2020,11,Billing Question,Orlando,Florida,Call-Center,Above SLA,34,Baltimore/MD
+AML-61668528-c-910981-gA,Roselin Ullett,Neutral,0,10/27/2020,27,Billing Question,San Jose,California,Chatbot,Below SLA,10,Baltimore/MD
+AML-76658806-B-642924-Je,Andre Baggaley,Neutral,5,10-03-2020,3,Billing Question,Young America,Minnesota,Web,Within SLA,17,Los Angeles/CA
+AML-77370394-v-500446-5z,Lisle Bugs,Very Negative,4,10-10-2020,10,Billing Question,Washington,District of Columbia,Email,Within SLA,30,Baltimore/MD
+AMM-37420365-a-169743-J4,Dare Carslaw,Very Negative,0,10/22/2020,22,Payments,Dallas,Texas,Call-Center,Below SLA,42,Los Angeles/CA
+AMM-47446882-l-945495-cr,Berget Jeromson,Very Negative,0,10/21/2020,21,Billing Question,Oakland,California,Web,Above SLA,41,Denver/CO
+AMM-57485122-3-352457-ux,Basilius Fraulo,Very Positive,0,10/24/2020,24,Billing Question,Santa Clara,California,Email,Within SLA,10,Chicago/IL
+AMN-01872235-S-613885-kK,Spence Udall,Very Positive,0,10/16/2020,16,Billing Question,Kansas City,Kansas,Web,Within SLA,45,Chicago/IL
+AMN-27228740-7-502219-Zj,Jacenta Nevett,Very Positive,9,10-01-2020,1,Billing Question,Sioux City,Iowa,Email,Below SLA,28,Baltimore/MD
+AMP-25327736-W-844001-Y3,Yardley Campbell,Negative,3,10/25/2020,25,Billing Question,Punta Gorda,Florida,Call-Center,Within SLA,39,Los Angeles/CA
+AMP-57335774-V-433692-Ms,Griff Comley,Negative,0,10-01-2020,1,Payments,Shawnee Mission,Kansas,Call-Center,Above SLA,44,Los Angeles/CA
+AMP-90313573-l-166579-nu,Carmelia Kidwell,Neutral,7,10/19/2020,19,Billing Question,Anderson,South Carolina,Email,Within SLA,14,Los Angeles/CA
+AMQ-64308175-O-941523-Q8,Sada Nineham,Neutral,0,10-06-2020,6,Payments,Peoria,Illinois,Call-Center,Within SLA,24,Denver/CO
+AMT-07508514-t-505384-RE,Mitchell Burstowe,Negative,0,10-01-2020,1,Payments,Dallas,Texas,Call-Center,Within SLA,27,Los Angeles/CA
+AMT-66988788-u-715738-84,Marc Siegertsz,Negative,0,10-12-2020,12,Payments,Las Vegas,Nevada,Call-Center,Within SLA,28,Denver/CO
+AMU-12494806-9-634045-VB,Vanni Sygrove,Very Negative,0,10/17/2020,17,Billing Question,San Francisco,California,Call-Center,Within SLA,12,Los Angeles/CA
+AMU-35692896-5-759051-a6,Hoyt Minichi,Negative,0,10/18/2020,18,Billing Question,Topeka,Kansas,Email,Within SLA,10,Los Angeles/CA
+AMU-99023429-4-724398-Im,Etti Rabbitt,Negative,4,10/29/2020,29,Billing Question,Lexington,Kentucky,Call-Center,Within SLA,18,Baltimore/MD
+AMV-41758456-2-872428-K1,Durant Deverall,Positive,7,10-12-2020,12,Service Outage,Flushing,New York,Email,Within SLA,41,Los Angeles/CA
+AMW-72978075-T-077134-MB,Louisa Soal,Very Negative,1,10-09-2020,9,Billing Question,Sacramento,California,Email,Within SLA,41,Los Angeles/CA
+AMW-76809505-x-485090-BR,Doy Delia,Neutral,0,10/16/2020,16,Billing Question,Knoxville,Tennessee,Call-Center,Above SLA,43,Los Angeles/CA
+AMX-20626327-s-516734-3B,Pru Edy,Very Negative,0,10-12-2020,12,Billing Question,Lancaster,Pennsylvania,Chatbot,Below SLA,37,Los Angeles/CA
+AMX-92436664-u-608095-AC,Hobie Kingsworth,Negative,3,10-05-2020,5,Billing Question,Portland,Oregon,Email,Below SLA,5,Baltimore/MD
+AMY-39053226-2-894802-3k,Jeanne Colville,Positive,9,10-05-2020,5,Payments,Marietta,Georgia,Call-Center,Within SLA,20,Los Angeles/CA
+AMZ-58495067-y-910635-E5,Drucie Olrenshaw,Positive,7,10/15/2020,15,Billing Question,Miami,Florida,Email,Within SLA,25,Los Angeles/CA
+AMZ-81246126-X-554387-KM,Lem Shankland,Very Negative,0,10/23/2020,23,Billing Question,Washington,District of Columbia,Email,Within SLA,40,Los Angeles/CA
+ANA-56121336-6-698872-mV,Terza MacLleese,Very Positive,9,10-05-2020,5,Billing Question,Houston,Texas,Email,Below SLA,39,Chicago/IL
+ANA-89041898-l-904030-Wq,Michaeline Firidolfi,Negative,0,10/19/2020,19,Billing Question,Evansville,Indiana,Chatbot,Below SLA,17,Los Angeles/CA
+ANB-02769374-M-639505-D6,Tory Bickley,Negative,0,10-06-2020,6,Billing Question,Washington,District of Columbia,Email,Within SLA,19,Chicago/IL
+ANB-96971130-O-616836-us,Evey Renad,Neutral,0,10/19/2020,19,Billing Question,Las Vegas,Nevada,Web,Within SLA,37,Chicago/IL
+ANC-43703020-m-861774-3G,Garvin Pactat,Neutral,0,10-09-2020,9,Billing Question,Raleigh,North Carolina,Call-Center,Within SLA,32,Chicago/IL
+ANC-57923924-x-249649-sG,Boyd Mcasparan,Very Negative,0,10/26/2020,26,Billing Question,Richmond,Virginia,Web,Below SLA,44,Baltimore/MD
+ANC-58498158-j-765820-u4,Pavel Bazoge,Very Positive,9,10-12-2020,12,Billing Question,New Orleans,Louisiana,Chatbot,Within SLA,39,Los Angeles/CA
+ANC-58579388-d-175168-pT,Cassandra Weatherburn,Very Positive,0,10-04-2020,4,Payments,Cincinnati,Ohio,Call-Center,Below SLA,29,Los Angeles/CA
+ANC-71220790-6-672465-wn,Gilles Decker,Negative,0,10-06-2020,6,Billing Question,El Paso,Texas,Web,Below SLA,44,Denver/CO
+ANC-77084196-g-682062-h5,Willdon Grene,Positive,9,10-05-2020,5,Service Outage,Pomona,California,Chatbot,Below SLA,39,Baltimore/MD
+AND-11197133-H-206043-FB,Abrahan Sansum,Positive,7,10/13/2020,13,Billing Question,Birmingham,Alabama,Email,Within SLA,40,Los Angeles/CA
+AND-39733170-l-001991-k9,Lanni Garoghan,Very Negative,1,10/17/2020,17,Payments,Albany,New York,Call-Center,Within SLA,34,Denver/CO
+ANE-20777016-d-867038-al,Husein Aris,Positive,7,10-10-2020,10,Billing Question,Kent,Washington,Email,Below SLA,8,Denver/CO
+ANE-37818826-5-278749-JS,Isacco Holleworth,Negative,6,10/23/2020,23,Billing Question,Huntington Beach,California,Chatbot,Below SLA,34,Los Angeles/CA
+ANG-22531462-o-932625-I3,Janaye Gwin,Very Positive,0,10-02-2020,2,Billing Question,Grand Rapids,Michigan,Web,Within SLA,14,Baltimore/MD
+ANG-60726029-q-441949-v1,Emelyne Sawday,Negative,0,10/16/2020,16,Payments,Houston,Texas,Call-Center,Below SLA,26,Los Angeles/CA
+ANH-45642853-M-006366-uL,Heidie Hanson,Neutral,5,10/24/2020,24,Billing Question,Washington,District of Columbia,Chatbot,Below SLA,21,Baltimore/MD
+ANH-62273957-p-168908-Qd,Zia Pennrington,Very Positive,10,10/19/2020,19,Payments,Allentown,Pennsylvania,Call-Center,Below SLA,14,Los Angeles/CA
+ANJ-63132266-h-299162-bF,Caresse Dobsons,Negative,5,10/16/2020,16,Billing Question,Spokane,Washington,Call-Center,Below SLA,17,Baltimore/MD
+ANK-01057765-H-869317-7p,Allie Trusler,Neutral,5,10-07-2020,7,Billing Question,Tucson,Arizona,Email,Above SLA,32,Chicago/IL
+ANL-08060191-0-889981-Vx,Tobit Newcombe,Very Negative,0,10/16/2020,16,Billing Question,San Jose,California,Chatbot,Below SLA,14,Baltimore/MD
+ANL-61289716-Y-862193-sT,Leighton Berardt,Neutral,0,10/28/2020,28,Billing Question,Albuquerque,New Mexico,Chatbot,Within SLA,17,Los Angeles/CA
+ANM-58952162-S-545588-QP,Danit Weeden,Neutral,0,10-05-2020,5,Billing Question,Atlanta,Georgia,Call-Center,Within SLA,43,Los Angeles/CA
+ANM-62748660-H-162335-MI,Hanan Glader,Positive,0,10/19/2020,19,Billing Question,Lubbock,Texas,Web,Above SLA,39,Los Angeles/CA
+ANM-68429683-u-960564-x5,Byran Bart,Very Negative,0,10/28/2020,28,Billing Question,Fort Wayne,Indiana,Call-Center,Within SLA,26,Los Angeles/CA
+ANM-95130406-x-627790-3s,Shirley Ferrero,Negative,0,10-11-2020,11,Billing Question,New York City,New York,Web,Below SLA,19,Los Angeles/CA
+ANM-96312335-C-531753-zj,Catherina Fernao,Positive,9,10-08-2020,8,Billing Question,Spokane,Washington,Call-Center,Above SLA,8,Los Angeles/CA
+ANN-94994056-n-559875-NU,Jacinta Klimkiewich,Negative,0,10/17/2020,17,Billing Question,Austin,Texas,Chatbot,Within SLA,15,Los Angeles/CA
+ANO-60298364-U-335628-YP,Timoteo Gadie,Negative,3,10-06-2020,6,Payments,Cedar Rapids,Iowa,Call-Center,Within SLA,16,Chicago/IL
+ANO-86308396-J-721664-JQ,Netty Meneer,Positive,0,10-12-2020,12,Billing Question,Charleston,West Virginia,Email,Within SLA,20,Baltimore/MD
+ANR-12777545-E-722412-Hs,Laverna Tolemache,Neutral,0,10/23/2020,23,Billing Question,Bryan,Texas,Chatbot,Within SLA,42,Los Angeles/CA
+ANR-35327090-J-004049-77,Keith Goodnow,Negative,0,10/18/2020,18,Service Outage,Colorado Springs,Colorado,Chatbot,Below SLA,19,Los Angeles/CA
+ANR-51890754-K-241249-uF,Neale Probbin,Neutral,7,10/17/2020,17,Payments,Phoenix,Arizona,Call-Center,Within SLA,21,Los Angeles/CA
+ANS-50077367-V-294504-wk,Callie Thirlaway,Negative,4,10-05-2020,5,Service Outage,Winston Salem,North Carolina,Chatbot,Within SLA,18,Los Angeles/CA
+ANS-61326689-i-481722-VX,Selle Kilner,Negative,0,10/21/2020,21,Billing Question,Orlando,Florida,Call-Center,Above SLA,36,Los Angeles/CA
+ANT-08253260-H-157138-PM,Marcel Mathissen,Negative,5,10/22/2020,22,Service Outage,Chicago,Illinois,Web,Above SLA,13,Los Angeles/CA
+ANT-24796782-z-939735-QO,Garvin Benza,Neutral,5,10-04-2020,4,Billing Question,Saint Petersburg,Florida,Email,Within SLA,7,Baltimore/MD
+ANT-91467204-d-137995-VR,Catrina Muffin,Negative,0,10-09-2020,9,Billing Question,Reston,Virginia,Email,Within SLA,36,Chicago/IL
+ANU-88953951-v-660075-ed,Jacquie Winchurch,Neutral,0,10-01-2020,1,Service Outage,Fort Lauderdale,Florida,Chatbot,Within SLA,33,Los Angeles/CA
+ANV-58483083-Y-388733-3Q,Grata Goodoune,Neutral,0,10/14/2020,14,Payments,Washington,District of Columbia,Call-Center,Within SLA,5,Baltimore/MD
+ANW-23938967-T-179051-IR,Lyle Martonfi,Negative,0,10-01-2020,1,Billing Question,Jacksonville,Florida,Web,Within SLA,18,Baltimore/MD
+ANX-03964037-J-825201-9X,Hulda Dommerque,Negative,0,10/14/2020,14,Payments,Pueblo,Colorado,Call-Center,Above SLA,10,Chicago/IL
+ANY-80370963-H-696885-gL,Anderson Lantaff,Negative,3,10/20/2020,20,Billing Question,Philadelphia,Pennsylvania,Chatbot,Within SLA,41,Baltimore/MD
+ANY-96201714-V-110324-xN,Kirstin Banister,Neutral,0,10-09-2020,9,Billing Question,Indianapolis,Indiana,Call-Center,Below SLA,43,Chicago/IL
+ANZ-09709705-z-733781-TT,Teddi Makiver,Very Negative,0,10-05-2020,5,Billing Question,Norfolk,Virginia,Call-Center,Below SLA,44,Baltimore/MD
+ANZ-29700612-L-509447-zt,Wallis Michal,Very Negative,4,10/25/2020,25,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,6,Los Angeles/CA
+AOC-31608175-Q-766334-7e,Hector Mark,Negative,0,10/22/2020,22,Billing Question,Glendale,California,Email,Below SLA,17,Los Angeles/CA
+AOC-39074135-w-894821-5d,Roma Mussotti,Negative,5,10/15/2020,15,Billing Question,Lubbock,Texas,Web,Within SLA,38,Denver/CO
+AOC-47137861-r-979327-MO,Oneida Filippone,Negative,0,10/27/2020,27,Service Outage,Little Rock,Arkansas,Chatbot,Below SLA,5,Los Angeles/CA
+AOC-53770312-n-467737-U3,Wakefield Heddy,Neutral,0,10-03-2020,3,Billing Question,Flint,Michigan,Chatbot,Within SLA,17,Chicago/IL
+AOC-61931254-v-948654-MS,Renee Tott,Neutral,5,10-07-2020,7,Payments,Houston,Texas,Call-Center,Above SLA,34,Los Angeles/CA
+AOD-26298902-c-136194-VE,Dita Bastable,Neutral,5,10-07-2020,7,Service Outage,Minneapolis,Minnesota,Web,Within SLA,40,Denver/CO
+AOF-65782647-s-968242-Y9,Etan O'Brallaghan,Neutral,0,10/20/2020,20,Billing Question,Lawrenceville,Georgia,Chatbot,Within SLA,28,Baltimore/MD
+AOG-02888619-4-739374-wN,Chilton Ropars,Neutral,0,10/28/2020,28,Service Outage,Fresno,California,Email,Within SLA,25,Los Angeles/CA
+AOH-09811607-G-115540-g7,Wylma Addicote,Neutral,0,10/20/2020,20,Billing Question,El Paso,Texas,Chatbot,Above SLA,29,Baltimore/MD
+AOH-14719070-r-568851-Sj,Jarib Franzonetti,Very Positive,0,10-01-2020,1,Billing Question,Honolulu,Hawaii,Email,Within SLA,20,Los Angeles/CA
+AOI-19180697-l-229697-XJ,Meghan Carass,Negative,3,10/27/2020,27,Service Outage,Syracuse,New York,Chatbot,Above SLA,13,Los Angeles/CA
+AOI-20594015-B-561275-Em,Priscilla Parvin,Very Negative,0,10/24/2020,24,Payments,Trenton,New Jersey,Call-Center,Above SLA,20,Los Angeles/CA
+AOI-57842778-9-884744-TY,Bucky Woolerton,Neutral,7,10/21/2020,21,Billing Question,Lynchburg,Virginia,Call-Center,Within SLA,45,Los Angeles/CA
+AOK-67324463-B-870948-JH,Jared Welberry,Very Negative,1,10-04-2020,4,Billing Question,Tampa,Florida,Web,Below SLA,19,Denver/CO
+AOK-70605714-e-362672-CV,Erskine Mancell,Neutral,7,10-08-2020,8,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,23,Baltimore/MD
+AOK-82730678-L-082902-rt,Annalise Caulton,Very Negative,0,10-06-2020,6,Billing Question,Stamford,Connecticut,Chatbot,Within SLA,17,Chicago/IL
+AOL-76338258-4-791908-Sz,Suzanne Speck,Negative,0,10/22/2020,22,Billing Question,Tampa,Florida,Chatbot,Below SLA,30,Denver/CO
+AOM-27598418-H-732848-dm,Stacia Mingo,Very Positive,9,10-03-2020,3,Billing Question,Kansas City,Missouri,Call-Center,Within SLA,27,Chicago/IL
+AOM-57867484-y-095151-FP,Dominga Berzins,Neutral,0,10/25/2020,25,Billing Question,Tyler,Texas,Chatbot,Within SLA,17,Denver/CO
+AOM-64340422-5-444796-5z,Erika Hounsom,Negative,0,10/29/2020,29,Billing Question,Colorado Springs,Colorado,Chatbot,Within SLA,29,Chicago/IL
+AOM-84022907-o-103715-9k,Vernice Habin,Positive,0,10/30/2020,30,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,44,Chicago/IL
+AOM-97394400-e-083850-3E,Janet Trousdell,Very Positive,0,10-07-2020,7,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,14,Baltimore/MD
+AON-90245397-O-523110-Oi,Zilvia Blaxall,Neutral,0,10-06-2020,6,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,34,Los Angeles/CA
+AOO-19617935-5-388866-ys,Sybyl Pohlak,Negative,0,10-04-2020,4,Billing Question,Springfield,Massachusetts,Email,Within SLA,33,Baltimore/MD
+AOO-83786664-j-541104-Sm,Eliot Breckon,Negative,0,10/16/2020,16,Billing Question,Scottsdale,Arizona,Email,Within SLA,29,Chicago/IL
+AOO-98905335-B-524518-Mn,Hy Andriveau,Negative,0,10-11-2020,11,Service Outage,Toledo,Ohio,Chatbot,Below SLA,32,Baltimore/MD
+AOP-13036499-5-550535-H5,Aloysius Lockyear,Negative,3,10/30/2020,30,Billing Question,New York City,New York,Email,Within SLA,14,Chicago/IL
+AOP-50550332-d-726906-qc,Grady Devo,Negative,0,10-10-2020,10,Payments,Boston,Massachusetts,Call-Center,Below SLA,28,Los Angeles/CA
+AOP-66875195-l-906020-yt,Derward Dautry,Positive,0,10/22/2020,22,Billing Question,North Hollywood,California,Web,Within SLA,20,Baltimore/MD
+AOQ-17147432-B-614058-pM,Blayne Weetch,Negative,0,10/23/2020,23,Billing Question,Albuquerque,New Mexico,Call-Center,Within SLA,9,Los Angeles/CA
+AOQ-56887670-h-912756-9j,Livvie Nilges,Positive,7,10/17/2020,17,Billing Question,San Diego,California,Chatbot,Within SLA,6,Denver/CO
+AOR-35183657-g-646442-sY,Caro Lorans,Negative,0,10/15/2020,15,Billing Question,Boston,Massachusetts,Email,Within SLA,17,Los Angeles/CA
+AOS-05481302-l-552930-A6,Chrissie Malbon,Positive,8,10-03-2020,3,Billing Question,Anchorage,Alaska,Email,Within SLA,16,Los Angeles/CA
+AOS-15148530-y-411327-Sf,Sven Bembridge,Negative,6,10/28/2020,28,Billing Question,Birmingham,Alabama,Web,Within SLA,12,Denver/CO
+AOS-38435694-E-324873-3f,Donielle Doughty,Neutral,0,10/27/2020,27,Billing Question,Dallas,Texas,Web,Within SLA,13,Baltimore/MD
+AOS-60278280-0-206056-xu,Kelsi Hacquel,Negative,6,10/25/2020,25,Billing Question,Orlando,Florida,Email,Within SLA,36,Chicago/IL
+AOS-70396421-l-977312-HJ,Falkner Filipyev,Positive,0,10/17/2020,17,Billing Question,Watertown,Massachusetts,Call-Center,Within SLA,41,Los Angeles/CA
+AOT-30246362-c-156422-LV,Carrissa Rochelle,Positive,7,10/25/2020,25,Billing Question,Columbus,Georgia,Web,Within SLA,18,Los Angeles/CA
+AOT-64965415-4-572297-ZN,Goldina Chadney,Negative,5,10/22/2020,22,Payments,Fresno,California,Call-Center,Within SLA,39,Baltimore/MD
+AOT-66579216-m-607671-Ke,Ravi Elcocks,Very Positive,0,10/25/2020,25,Payments,Pasadena,California,Call-Center,Within SLA,10,Los Angeles/CA
+AOT-72548949-W-705678-Ts,Koral Renols,Neutral,0,10-04-2020,4,Service Outage,Atlanta,Georgia,Email,Below SLA,20,Denver/CO
+AOU-48936459-o-733233-Ky,Jorey Radbourn,Neutral,0,10/17/2020,17,Billing Question,Fresno,California,Email,Below SLA,37,Baltimore/MD
+AOU-65225592-o-329916-2q,Andee Ayce,Negative,3,10/15/2020,15,Billing Question,El Paso,Texas,Email,Below SLA,44,Chicago/IL
+AOU-69534842-Y-032215-mo,Guinevere Treamayne,Negative,0,10/30/2020,30,Billing Question,Scottsdale,Arizona,Chatbot,Above SLA,22,Chicago/IL
+AOV-29908358-H-726300-r4,Alyosha Soonhouse,Negative,3,10-06-2020,6,Billing Question,Dearborn,Michigan,Call-Center,Within SLA,44,Los Angeles/CA
+AOV-50829757-p-004526-n8,Maddy Pranger,Positive,0,10-06-2020,6,Billing Question,Meridian,Mississippi,Chatbot,Below SLA,43,Chicago/IL
+AOW-94943686-0-579123-rD,Larissa Gilardengo,Very Positive,0,10/25/2020,25,Billing Question,Colorado Springs,Colorado,Email,Below SLA,26,Denver/CO
+AOX-23428170-8-049050-LL,Lydie Perle,Very Negative,2,10-07-2020,7,Billing Question,Provo,Utah,Email,Within SLA,17,Los Angeles/CA
+AOX-62961473-y-658882-Sl,Gilemette Hedden,Very Positive,0,10-12-2020,12,Billing Question,Washington,District of Columbia,Call-Center,Within SLA,13,Los Angeles/CA
+AOY-31318129-Q-195755-oZ,Evey Joule,Very Negative,0,10-03-2020,3,Service Outage,Mobile,Alabama,Web,Within SLA,45,Los Angeles/CA
+AOZ-07383516-M-110091-wX,Luciano Wharram,Negative,0,10-04-2020,4,Payments,Indianapolis,Indiana,Call-Center,Below SLA,22,Los Angeles/CA
+AOZ-08533996-j-453504-6n,Georg Scandrite,Negative,4,10-03-2020,3,Billing Question,Chandler,Arizona,Email,Below SLA,44,Chicago/IL
+AOZ-86886200-V-860335-vC,Valma Jeens,Very Positive,9,10/16/2020,16,Service Outage,Arlington,Texas,Email,Within SLA,24,Denver/CO
+AOZ-96694080-Q-597562-PB,Aurilia Proctor,Positive,0,10/27/2020,27,Billing Question,Pensacola,Florida,Email,Below SLA,13,Los Angeles/CA
+APA-09512941-P-092345-Pk,Bond Hansie,Neutral,0,10-12-2020,12,Billing Question,Arlington,Texas,Call-Center,Within SLA,40,Chicago/IL
+APA-73810139-p-936303-wh,Enid Billingsley,Negative,0,10-01-2020,1,Service Outage,Oklahoma City,Oklahoma,Web,Within SLA,31,Baltimore/MD
+APB-71537242-c-461569-iO,Gisela Elphee,Negative,0,10-11-2020,11,Billing Question,Fort Lauderdale,Florida,Call-Center,Below SLA,30,Baltimore/MD
+APB-95458695-C-881322-mc,Gardiner Sitch,Neutral,5,10-10-2020,10,Billing Question,Kansas City,Missouri,Web,Within SLA,17,Los Angeles/CA
+APC-00217419-L-499961-71,Kristi Casement,Negative,0,10/19/2020,19,Billing Question,Nashville,Tennessee,Chatbot,Below SLA,27,Los Angeles/CA
+APC-19250736-0-411979-vg,Andreas Chicco,Neutral,0,10-12-2020,12,Billing Question,Boise,Idaho,Call-Center,Below SLA,5,Denver/CO
+APC-41192785-S-326758-uN,Valencia Cornely,Negative,0,10-02-2020,2,Service Outage,El Paso,Texas,Chatbot,Within SLA,15,Baltimore/MD
+APC-84046786-e-651835-Dz,Annadiana Gudahy,Negative,0,10/25/2020,25,Payments,Grand Junction,Colorado,Call-Center,Within SLA,45,Los Angeles/CA
+APD-60838601-4-111021-7O,Niki Gerin,Neutral,0,10/24/2020,24,Billing Question,Fort Worth,Texas,Web,Within SLA,27,Baltimore/MD
+APD-93870529-T-209438-qb,Abigael Cramond,Negative,5,10/19/2020,19,Billing Question,Phoenix,Arizona,Chatbot,Within SLA,13,Chicago/IL
+APE-05645075-n-717869-iY,Wilie Kropach,Negative,6,10/28/2020,28,Billing Question,Baltimore,Maryland,Chatbot,Within SLA,41,Los Angeles/CA
+APE-54755130-G-575950-NF,Letti McGrady,Very Negative,2,10/28/2020,28,Billing Question,Hampton,Virginia,Chatbot,Above SLA,27,Chicago/IL
+APF-49300361-R-063566-CB,Harold Kemitt,Neutral,7,10/24/2020,24,Billing Question,El Paso,Texas,Web,Within SLA,21,Los Angeles/CA
+APF-51755269-T-522338-5u,Rosemaria Cannell,Very Negative,0,10/17/2020,17,Billing Question,Spokane,Washington,Email,Within SLA,9,Los Angeles/CA
+APF-52911016-W-160362-qQ,Tailor Speechly,Very Negative,0,10/17/2020,17,Billing Question,Amarillo,Texas,Chatbot,Within SLA,12,Baltimore/MD
+APF-68622440-Z-254016-dF,Natalya Keaveney,Very Negative,3,10/26/2020,26,Billing Question,Fort Wayne,Indiana,Email,Below SLA,20,Denver/CO
+APG-33623504-1-533704-Ex,Cris Hodges,Positive,0,10-11-2020,11,Billing Question,Chicago,Illinois,Chatbot,Below SLA,35,Los Angeles/CA
+APH-17441208-a-528744-d5,Wyn Ancliff,Negative,0,10/25/2020,25,Billing Question,San Bernardino,California,Web,Below SLA,25,Denver/CO
+APH-55928574-q-167792-Hr,Leland Whaley,Negative,0,10/27/2020,27,Billing Question,Evansville,Indiana,Web,Within SLA,13,Baltimore/MD
+API-05380578-X-561838-Mk,Morlee Bagley,Neutral,7,10/14/2020,14,Billing Question,Lincoln,Nebraska,Call-Center,Within SLA,20,Baltimore/MD
+API-39179933-C-943158-7Y,Noelani Frewer,Neutral,0,10-04-2020,4,Billing Question,Washington,District of Columbia,Chatbot,Within SLA,18,Baltimore/MD
+API-83334089-R-318372-cS,Allys Crauford,Negative,0,10/30/2020,30,Billing Question,Muskegon,Michigan,Email,Within SLA,16,Los Angeles/CA
+API-88902739-m-875231-Ux,Nick Licquorish,Neutral,7,10/14/2020,14,Billing Question,New York City,New York,Web,Within SLA,30,Baltimore/MD
+APJ-39977873-H-324083-rW,Allie Yurshev,Negative,0,10-08-2020,8,Billing Question,Round Rock,Texas,Chatbot,Within SLA,7,Los Angeles/CA
+APJ-91903576-m-528370-Xn,Carroll Firidolfi,Neutral,8,10-12-2020,12,Billing Question,San Diego,California,Email,Within SLA,23,Los Angeles/CA
+APK-61999731-d-966430-S0,Rhona Shercliff,Very Negative,0,10/27/2020,27,Billing Question,Orlando,Florida,Email,Within SLA,36,Denver/CO
+APL-22270159-y-223416-Dd,Claudie Tumulty,Very Negative,2,10-08-2020,8,Billing Question,Des Moines,Iowa,Call-Center,Within SLA,28,Baltimore/MD
+APL-48820717-n-938296-nj,Germain Stockau,Negative,0,10/23/2020,23,Billing Question,Corona,California,Email,Below SLA,18,Chicago/IL
+APL-92993609-7-448073-pC,Salvador Stiant,Negative,4,10-08-2020,8,Payments,Tampa,Florida,Call-Center,Within SLA,37,Denver/CO
+APL-97273848-l-642588-94,Chloette Badcock,Negative,0,10-05-2020,5,Payments,Concord,California,Call-Center,Above SLA,12,Baltimore/MD
+APM-50013420-V-751877-IU,Cassandre Ambrosini,Negative,0,10-01-2020,1,Billing Question,Tacoma,Washington,Email,Within SLA,41,Baltimore/MD
+APO-44530862-r-836724-OX,Vivyan Hogbin,Very Negative,0,10/29/2020,29,Billing Question,Houston,Texas,Call-Center,Within SLA,14,Baltimore/MD
+APO-49142499-6-520986-zy,Roanna Kristiansen,Negative,3,10/19/2020,19,Billing Question,Rockford,Illinois,Email,Within SLA,19,Baltimore/MD
+APO-57565046-G-116389-sj,Eugene Terrill,Negative,0,10-05-2020,5,Billing Question,Atlanta,Georgia,Email,Within SLA,37,Baltimore/MD
+APP-03445873-w-859178-L1,Jere Liddel,Negative,0,10/25/2020,25,Payments,Louisville,Kentucky,Call-Center,Below SLA,26,Los Angeles/CA
+APP-03648507-j-019759-8H,Elly Machen,Negative,6,10-07-2020,7,Billing Question,Cincinnati,Ohio,Call-Center,Within SLA,33,Los Angeles/CA
+APQ-61373763-B-045781-oB,Jacky Wainscoat,Neutral,7,10-07-2020,7,Service Outage,Chattanooga,Tennessee,Email,Within SLA,43,Baltimore/MD
+APR-04906546-c-413224-FJ,Corabel Sehorsch,Positive,0,10-07-2020,7,Service Outage,Anderson,South Carolina,Chatbot,Within SLA,39,Los Angeles/CA
+APR-25733691-3-864231-Qz,Hedy Lutwidge,Neutral,8,10-02-2020,2,Payments,Peoria,Illinois,Call-Center,Within SLA,42,Baltimore/MD
+APR-77382924-j-632658-15,Ann Creasy,Negative,0,10/27/2020,27,Billing Question,Seattle,Washington,Call-Center,Within SLA,21,Chicago/IL
+APS-11765269-c-809718-8q,Jacquenette Pittem,Negative,0,10-02-2020,2,Payments,Greenville,South Carolina,Call-Center,Within SLA,28,Chicago/IL
+APS-13170105-D-520277-hE,Dominick Hellin,Very Negative,0,10/16/2020,16,Billing Question,Glendale,California,Call-Center,Within SLA,42,Los Angeles/CA
+APS-52162882-N-770604-JX,Agatha Sprouls,Very Negative,0,10-12-2020,12,Service Outage,Omaha,Nebraska,Chatbot,Within SLA,40,Baltimore/MD
+APS-67894716-q-304074-iv,Sascha Doblin,Negative,5,10-02-2020,2,Billing Question,Bridgeport,Connecticut,Call-Center,Within SLA,34,Los Angeles/CA
+APT-27467127-J-620552-Lh,Remy Sperry,Negative,4,10/16/2020,16,Billing Question,Montgomery,Alabama,Email,Within SLA,22,Los Angeles/CA
+APT-43403288-I-678419-iC,Orren Fenna,Negative,0,10/15/2020,15,Billing Question,Baltimore,Maryland,Chatbot,Within SLA,28,Los Angeles/CA
+APT-48893789-i-560078-aq,Kylynn Smurthwaite,Neutral,0,10/17/2020,17,Payments,Toledo,Ohio,Call-Center,Below SLA,15,Denver/CO
+APU-18766279-L-615386-Q5,Niles Flaonier,Negative,0,10-09-2020,9,Billing Question,Shreveport,Louisiana,Chatbot,Below SLA,12,Denver/CO
+APU-70925857-J-410712-1Z,Teodoro Redolfi,Very Negative,0,10/27/2020,27,Billing Question,Atlanta,Georgia,Call-Center,Within SLA,12,Los Angeles/CA
+APV-25929600-e-104205-yM,Tarah Lineen,Negative,0,10-10-2020,10,Billing Question,Oklahoma City,Oklahoma,Web,Within SLA,19,Baltimore/MD
+APV-94143323-v-038209-ny,Masha Tesmond,Very Negative,0,10/27/2020,27,Billing Question,Reading,Pennsylvania,Web,Within SLA,21,Chicago/IL
+APX-51086894-K-421307-Kh,Tann Swan,Very Negative,0,10/28/2020,28,Billing Question,Fort Wayne,Indiana,Call-Center,Below SLA,11,Baltimore/MD
+APY-17008648-j-088560-GY,Rafe Duffitt,Very Negative,4,10/20/2020,20,Billing Question,Fort Myers,Florida,Email,Below SLA,26,Los Angeles/CA
+APY-24977415-r-720248-3w,Nonnah Oloshin,Neutral,5,10/26/2020,26,Payments,Norfolk,Virginia,Call-Center,Within SLA,15,Chicago/IL
+AQB-29143964-w-638174-w0,Nevil Grime,Very Positive,0,10-06-2020,6,Billing Question,Rochester,New York,Chatbot,Above SLA,23,Los Angeles/CA
+AQB-48794458-T-984343-Mz,Nichole Bittlestone,Positive,9,10-09-2020,9,Payments,Miami,Florida,Call-Center,Within SLA,20,Baltimore/MD
+AQB-72985650-V-663136-QA,Carmelita Climpson,Very Negative,1,10-03-2020,3,Billing Question,West Palm Beach,Florida,Call-Center,Within SLA,44,Baltimore/MD
+AQC-02673531-s-957431-hn,Alwyn Ead,Neutral,5,10-08-2020,8,Billing Question,West Palm Beach,Florida,Chatbot,Below SLA,18,Los Angeles/CA
+AQC-67564374-1-537171-eu,Kassey Ruston,Negative,0,10/21/2020,21,Billing Question,Lees Summit,Missouri,Web,Within SLA,5,Denver/CO
+AQC-98299549-N-459309-Y9,Amil Yarker,Very Positive,0,10-03-2020,3,Billing Question,London,Kentucky,Email,Below SLA,9,Baltimore/MD
+AQE-14353843-F-885171-3l,Sena Machans,Positive,0,10-09-2020,9,Payments,El Paso,Texas,Call-Center,Within SLA,36,Chicago/IL
+AQE-28743185-C-803995-BU,Winifield Kieff,Negative,0,10/24/2020,24,Billing Question,Waltham,Massachusetts,Call-Center,Above SLA,12,Denver/CO
+AQE-38308602-6-499206-OX,Farlay Orrum,Negative,0,10/15/2020,15,Billing Question,Boston,Massachusetts,Chatbot,Within SLA,12,Los Angeles/CA
+AQE-80812745-G-036986-X7,Cornell Enderby,Positive,9,10/25/2020,25,Billing Question,Tampa,Florida,Email,Above SLA,24,Chicago/IL
+AQE-93799463-B-273257-3q,Nikolas Curnok,Very Negative,0,10/15/2020,15,Billing Question,Ashburn,Virginia,Web,Within SLA,29,Chicago/IL
+AQF-54926478-e-326618-nq,Addison Sunners,Very Negative,0,10/25/2020,25,Billing Question,Las Vegas,Nevada,Web,Below SLA,33,Baltimore/MD
+AQF-80850124-a-660076-IW,Mikkel Ricardou,Negative,4,10-03-2020,3,Payments,Birmingham,Alabama,Call-Center,Within SLA,11,Chicago/IL
+AQF-90898167-m-714239-zb,Gerome Beaston,Positive,0,10-03-2020,3,Billing Question,El Paso,Texas,Email,Above SLA,42,Chicago/IL
+AQG-95726464-P-369246-NO,Clayborn Greves,Negative,6,10/17/2020,17,Billing Question,Fort Worth,Texas,Web,Below SLA,7,Los Angeles/CA
+AQH-08482773-7-439700-TQ,Mathian Maydway,Negative,0,10/21/2020,21,Service Outage,Minneapolis,Minnesota,Chatbot,Within SLA,9,Los Angeles/CA
+AQH-17430187-J-725173-Aw,Sarge Potbury,Negative,5,10/14/2020,14,Billing Question,Hot Springs National Park,Arkansas,Chatbot,Below SLA,36,Baltimore/MD
+AQI-11404761-3-615153-fZ,Kara-lynn Dabell,Negative,0,10-05-2020,5,Billing Question,New York City,New York,Email,Below SLA,22,Baltimore/MD
+AQI-47913097-w-946103-79,Baird Lifton,Neutral,6,10/16/2020,16,Billing Question,Brooklyn,New York,Chatbot,Within SLA,37,Los Angeles/CA
+AQI-71935444-Y-131335-SW,Jackie Lammie,Negative,0,10/15/2020,15,Payments,Springfield,Massachusetts,Call-Center,Within SLA,6,Chicago/IL
+AQI-88308288-O-453299-E8,Cortie Gyrgorcewicx,Negative,3,10-09-2020,9,Billing Question,Frankfort,Kentucky,Email,Within SLA,41,Los Angeles/CA
+AQJ-76768333-n-574950-4I,Lynett Chmiel,Very Negative,0,10/24/2020,24,Billing Question,Saint Louis,Missouri,Web,Within SLA,27,Baltimore/MD
+AQJ-92994737-a-910308-9E,Charissa Langland,Very Negative,1,10-03-2020,3,Billing Question,London,Kentucky,Chatbot,Below SLA,36,Chicago/IL
+AQK-30775304-4-232274-2C,Stavro Plunket,Very Negative,0,10-12-2020,12,Billing Question,Lexington,Kentucky,Chatbot,Within SLA,27,Los Angeles/CA
+AQK-99887528-d-545489-MI,Ashien Dumelow,Negative,0,10-12-2020,12,Billing Question,Tulsa,Oklahoma,Email,Within SLA,17,Los Angeles/CA
+AQM-39597355-9-995635-Vw,Cyndi Bothe,Neutral,0,10/26/2020,26,Billing Question,Oakland,California,Call-Center,Below SLA,30,Baltimore/MD
+AQN-43829784-R-423972-sO,Della Klemencic,Neutral,0,10-08-2020,8,Billing Question,Bowie,Maryland,Web,Within SLA,19,Chicago/IL
+AQN-53397186-7-548983-YZ,Merilyn Atwill,Negative,5,10/14/2020,14,Service Outage,Aurora,Colorado,Chatbot,Within SLA,29,Los Angeles/CA
+AQN-94821625-b-927662-aD,Martin Beddis,Very Negative,0,10-02-2020,2,Billing Question,New York City,New York,Web,Within SLA,41,Los Angeles/CA
+AQO-17750195-N-881243-u7,Gerty Llywarch,Neutral,0,10/26/2020,26,Payments,Jeffersonville,Indiana,Call-Center,Above SLA,43,Chicago/IL
+AQO-86207845-E-175763-s1,Ferris Lorking,Negative,6,10/13/2020,13,Billing Question,Las Cruces,New Mexico,Email,Within SLA,28,Los Angeles/CA
+AQP-09146601-u-158026-WF,Redford Ivanishchev,Very Positive,9,10/18/2020,18,Payments,Roanoke,Virginia,Call-Center,Below SLA,11,Baltimore/MD
+AQQ-23106804-A-490529-Wi,Francesco Rogeon,Very Positive,0,10/30/2020,30,Service Outage,Jefferson City,Missouri,Email,Below SLA,14,Baltimore/MD
+AQQ-37644878-x-967971-e9,Sherill Ivankov,Negative,6,10/30/2020,30,Billing Question,San Bernardino,California,Chatbot,Within SLA,31,Los Angeles/CA
+AQR-28085367-Z-373760-XD,Janela Linden,Neutral,0,10/30/2020,30,Payments,Colorado Springs,Colorado,Call-Center,Within SLA,33,Los Angeles/CA
+AQR-31140368-e-712688-gm,Chrisy Boustred,Very Negative,1,10/19/2020,19,Billing Question,San Antonio,Texas,Chatbot,Within SLA,37,Baltimore/MD
+AQS-54501606-v-232157-pI,Berry Phaup,Very Negative,0,10-02-2020,2,Billing Question,Washington,District of Columbia,Web,Below SLA,36,Los Angeles/CA
+AQT-75516915-q-341305-do,Mahmoud Alston,Neutral,5,10-10-2020,10,Billing Question,Mobile,Alabama,Chatbot,Within SLA,26,Los Angeles/CA
+AQU-03334226-y-651220-Uj,Alaine Fockes,Positive,0,10-07-2020,7,Billing Question,Springfield,Missouri,Call-Center,Below SLA,6,Baltimore/MD
+AQU-97315456-H-405674-Re,Skelly Lewton,Neutral,0,10-09-2020,9,Payments,Washington,District of Columbia,Call-Center,Within SLA,18,Baltimore/MD
+AQV-06865460-x-377415-pG,Kimberly Killick,Very Negative,0,10/17/2020,17,Billing Question,Atlanta,Georgia,Chatbot,Within SLA,6,Baltimore/MD
+AQV-62228194-t-715530-LM,Kathryne Edmondson,Very Negative,0,10/26/2020,26,Billing Question,Miami,Florida,Email,Below SLA,45,Baltimore/MD
+AQW-44550783-M-385177-Z7,Joby Schaffel,Positive,0,10-06-2020,6,Billing Question,Chicago,Illinois,Call-Center,Below SLA,12,Chicago/IL
+AQW-48782504-i-608275-ip,Angelica Choldcroft,Very Negative,0,10-01-2020,1,Billing Question,Los Angeles,California,Call-Center,Within SLA,11,Baltimore/MD
+AQW-78469271-4-950107-oc,Ajay Brookwood,Negative,0,10/21/2020,21,Billing Question,Kansas City,Missouri,Call-Center,Above SLA,44,Los Angeles/CA
+AQX-93645138-M-900940-MT,Lyn Dadge,Very Positive,0,10/14/2020,14,Billing Question,Oklahoma City,Oklahoma,Email,Within SLA,15,Los Angeles/CA
+AQY-16187437-a-142232-yp,Twyla Glozman,Neutral,0,10/27/2020,27,Service Outage,Cleveland,Ohio,Chatbot,Within SLA,6,Baltimore/MD
+AQY-89899051-5-611481-th,Bondon Jeune,Positive,0,10/25/2020,25,Billing Question,Memphis,Tennessee,Call-Center,Above SLA,10,Los Angeles/CA
+AQZ-01343845-C-902844-pc,Tallou Farlam,Very Negative,0,10-02-2020,2,Billing Question,Alexandria,Virginia,Email,Within SLA,28,Baltimore/MD
+AQZ-90254136-H-759029-LM,Janessa Kulvear,Positive,8,10/19/2020,19,Billing Question,Lincoln,Nebraska,Email,Within SLA,20,Chicago/IL
+ARB-02899034-7-269142-eW,Daisie Filson,Negative,0,10-03-2020,3,Billing Question,Wichita Falls,Texas,Call-Center,Within SLA,6,Baltimore/MD
+ARB-57330802-8-828117-7C,Grethel Cullity,Negative,0,10/25/2020,25,Billing Question,Pittsburgh,Pennsylvania,Chatbot,Above SLA,45,Baltimore/MD
+ARB-90526516-T-806325-hm,Demeter Danilishin,Very Negative,3,10/19/2020,19,Billing Question,Austin,Texas,Call-Center,Above SLA,14,Baltimore/MD
+ARC-20064263-v-345781-cm,Ashleigh MacGiffin,Neutral,0,10-06-2020,6,Billing Question,Memphis,Tennessee,Chatbot,Above SLA,28,Baltimore/MD
+ARE-09520317-J-407807-TF,Norean Maypes,Negative,0,10-05-2020,5,Billing Question,El Paso,Texas,Chatbot,Above SLA,30,Baltimore/MD
+ARF-25612077-g-731383-DA,Lee Crewes,Very Positive,10,10-09-2020,9,Billing Question,Santa Ana,California,Chatbot,Below SLA,33,Baltimore/MD
+ARG-19956254-M-509945-eh,Correy Sterland,Negative,3,10/28/2020,28,Billing Question,Indianapolis,Indiana,Email,Below SLA,45,Chicago/IL
+ARG-52743399-G-240910-UH,Frederica Foulgham,Negative,5,10-05-2020,5,Billing Question,New York City,New York,Call-Center,Below SLA,27,Los Angeles/CA
+ARG-65973373-Q-194971-nP,Bordy Ledward,Negative,0,10/26/2020,26,Billing Question,Seattle,Washington,Call-Center,Within SLA,31,Los Angeles/CA
+ARH-39232527-E-494354-bh,Marv Halwell,Very Positive,10,10-08-2020,8,Billing Question,Hartford,Connecticut,Call-Center,Within SLA,12,Baltimore/MD
+ARI-08988400-4-033888-kp,Even Harms,Very Negative,1,10/17/2020,17,Billing Question,Meridian,Mississippi,Call-Center,Above SLA,33,Los Angeles/CA
+ARI-11850091-s-741996-ts,Del Ennals,Negative,6,10-10-2020,10,Payments,Largo,Florida,Call-Center,Within SLA,35,Los Angeles/CA
+ARI-46362936-i-285050-G2,Geralda Thing,Negative,0,10/19/2020,19,Billing Question,Miami,Florida,Chatbot,Within SLA,22,Los Angeles/CA
+ARK-18055141-P-888798-rq,Catherine Nathon,Negative,0,10/19/2020,19,Payments,Buffalo,New York,Call-Center,Within SLA,29,Chicago/IL
+ARK-38861923-a-115782-c3,Ricky Aburrow,Neutral,7,10-06-2020,6,Billing Question,Huntsville,Alabama,Chatbot,Within SLA,27,Denver/CO
+ARL-23170296-b-673109-wY,Jabez Peel,Very Positive,9,10-11-2020,11,Billing Question,Birmingham,Alabama,Email,Within SLA,22,Baltimore/MD
+ARL-37426079-O-312906-86,Joe Scandrett,Positive,0,10-09-2020,9,Billing Question,San Angelo,Texas,Email,Above SLA,24,Chicago/IL
+ARL-95296393-0-908936-G7,Noellyn Merriton,Negative,5,10-01-2020,1,Billing Question,Grand Junction,Colorado,Chatbot,Within SLA,22,Chicago/IL
+ARM-04573223-X-512353-RF,Lauree Randerson,Negative,0,10-11-2020,11,Payments,Wilkes Barre,Pennsylvania,Call-Center,Below SLA,19,Chicago/IL
+ARM-53257640-s-018557-Sp,Maynord Palser,Negative,3,10-10-2020,10,Payments,Buffalo,New York,Call-Center,Below SLA,45,Los Angeles/CA
+ARN-35458948-2-081253-oK,Amberly Fay,Very Negative,2,10/16/2020,16,Billing Question,Pittsburgh,Pennsylvania,Call-Center,Within SLA,41,Denver/CO
+ARN-59762894-M-718455-yQ,Zolly Joist,Very Negative,0,10-10-2020,10,Billing Question,Topeka,Kansas,Web,Within SLA,30,Los Angeles/CA
+ARN-75657963-d-948463-ps,Wake Pedrazzi,Neutral,0,10/24/2020,24,Billing Question,Peoria,Illinois,Call-Center,Within SLA,35,Baltimore/MD
+ARN-84959153-h-591594-9V,Starlin Jansen,Very Negative,0,10/25/2020,25,Billing Question,Houston,Texas,Email,Within SLA,23,Los Angeles/CA
+ARP-34220982-R-076412-ed,Devlin Dantesia,Very Positive,0,10/19/2020,19,Billing Question,Saint Paul,Minnesota,Web,Within SLA,31,Los Angeles/CA
+ARP-48582183-t-133125-Sw,Pietro Farherty,Negative,0,10/22/2020,22,Payments,Vancouver,Washington,Call-Center,Within SLA,26,Denver/CO
+ARP-50740307-d-547542-6W,Caresse Jacquemard,Negative,0,10-07-2020,7,Billing Question,Dallas,Texas,Call-Center,Within SLA,14,Baltimore/MD
+ARQ-94155651-v-081553-dk,Sheff Connor,Negative,0,10-04-2020,4,Billing Question,El Paso,Texas,Email,Within SLA,7,Baltimore/MD
+ARR-67102934-d-131312-rQ,Coral Pauley,Neutral,6,10-08-2020,8,Billing Question,Cincinnati,Ohio,Email,Above SLA,23,Denver/CO
+ARS-29770476-W-647056-0l,Arnuad Beet,Neutral,0,10/27/2020,27,Billing Question,Crawfordsville,Indiana,Web,Above SLA,23,Baltimore/MD
+ARS-72423096-x-231192-qF,Brandice Houselee,Negative,0,10-10-2020,10,Billing Question,Los Angeles,California,Email,Within SLA,14,Baltimore/MD
+ART-28532654-o-484017-Pe,Laurene Althorpe,Negative,0,10/14/2020,14,Payments,Macon,Georgia,Call-Center,Below SLA,33,Los Angeles/CA
+ARV-27516776-p-779267-D7,Gunther O' Dornan,Positive,0,10/21/2020,21,Billing Question,Washington,District of Columbia,Chatbot,Below SLA,33,Los Angeles/CA
+ARV-86187919-F-295755-tK,Nat Crat,Neutral,0,10/20/2020,20,Billing Question,Omaha,Nebraska,Chatbot,Within SLA,6,Baltimore/MD
+ARZ-07431831-a-739886-pP,Gonzales Swale,Positive,0,10/15/2020,15,Payments,Tulsa,Oklahoma,Call-Center,Within SLA,36,Baltimore/MD
+ASB-84496324-k-761100-EM,Willabella Behr,Neutral,0,10/15/2020,15,Service Outage,Torrance,California,Chatbot,Below SLA,14,Los Angeles/CA
+ASC-00569288-d-782539-4A,Annice Nucciotti,Negative,0,10/22/2020,22,Payments,Baltimore,Maryland,Call-Center,Below SLA,40,Baltimore/MD
+ASC-07423386-6-598008-nX,Romy Gowlett,Negative,0,10/15/2020,15,Billing Question,Appleton,Wisconsin,Web,Within SLA,13,Baltimore/MD
+ASC-34944187-T-553974-z7,Martha Lainge,Negative,0,10-08-2020,8,Billing Question,Baltimore,Maryland,Call-Center,Within SLA,5,Los Angeles/CA
+ASE-09864034-K-310679-jc,Gert Empringham,Neutral,5,10/18/2020,18,Payments,New Orleans,Louisiana,Call-Center,Above SLA,21,Chicago/IL
+ASE-10507441-p-733578-vC,Beret Pautot,Negative,0,10-10-2020,10,Payments,San Bernardino,California,Call-Center,Within SLA,23,Los Angeles/CA
+ASE-98885852-Z-902686-Uc,Faber Darlaston,Neutral,0,10/17/2020,17,Payments,Atlanta,Georgia,Call-Center,Below SLA,16,Chicago/IL
+ASE-99771819-R-134679-dG,Hart Bert,Very Negative,0,10/23/2020,23,Billing Question,Bakersfield,California,Email,Within SLA,43,Baltimore/MD
+ASF-23869255-E-942162-jI,Jeddy Mcwhinney,Very Negative,0,10-03-2020,3,Service Outage,Watertown,Massachusetts,Chatbot,Within SLA,13,Chicago/IL
+ASF-63938920-F-132475-e9,Bevin Keywood,Very Positive,10,10/24/2020,24,Billing Question,New York City,New York,Call-Center,Within SLA,23,Los Angeles/CA
+ASG-59331682-m-686932-53,Louise Estick,Neutral,0,10/24/2020,24,Payments,Honolulu,Hawaii,Call-Center,Within SLA,21,Baltimore/MD
+ASH-11903728-f-682941-EB,Mirabella Fumagall,Positive,7,10-09-2020,9,Billing Question,Phoenix,Arizona,Email,Within SLA,39,Los Angeles/CA
+ASH-12212615-4-678796-x5,Winni Gillise,Very Negative,0,10-10-2020,10,Billing Question,San Antonio,Texas,Email,Within SLA,35,Los Angeles/CA
+ASI-52977203-8-072359-d7,Karlie Pritchard,Negative,5,10-11-2020,11,Billing Question,Asheville,North Carolina,Email,Within SLA,34,Los Angeles/CA
+ASK-35853795-Z-186913-Lk,Raimundo Adess,Neutral,8,10-02-2020,2,Payments,Oklahoma City,Oklahoma,Call-Center,Below SLA,10,Los Angeles/CA
+ASK-38211406-1-622794-4z,Nikolaus Siccombe,Neutral,0,10/26/2020,26,Billing Question,Anchorage,Alaska,Call-Center,Within SLA,21,Los Angeles/CA
+ASK-53719067-w-772966-Id,Doloritas Bulford,Negative,0,10-08-2020,8,Billing Question,Houston,Texas,Web,Within SLA,39,Baltimore/MD
+ASK-67467319-e-876685-VR,Tish Varker,Negative,0,10-02-2020,2,Billing Question,San Diego,California,Web,Within SLA,14,Chicago/IL
+ASL-95034294-t-537388-Ha,Horatius Kearney,Neutral,0,10/15/2020,15,Billing Question,Pittsburgh,Pennsylvania,Chatbot,Above SLA,9,Chicago/IL
+ASM-04620324-5-279983-6z,Deina Selwyne,Negative,0,10-11-2020,11,Billing Question,Dallas,Texas,Call-Center,Within SLA,28,Denver/CO
+ASM-36977801-M-100811-dE,Clemens Fidelus,Negative,0,10-11-2020,11,Service Outage,Spartanburg,South Carolina,Web,Within SLA,37,Baltimore/MD
+ASM-62580150-M-968559-EQ,Elana Powton,Very Positive,0,10-02-2020,2,Service Outage,Washington,District of Columbia,Email,Above SLA,6,Baltimore/MD
+ASM-69509357-w-253163-a7,Clemence Kirby,Negative,6,10-06-2020,6,Billing Question,Buffalo,New York,Call-Center,Above SLA,44,Denver/CO
+ASN-26617102-D-084234-re,Kaye Du Pre,Neutral,0,10/26/2020,26,Billing Question,Shreveport,Louisiana,Email,Within SLA,27,Baltimore/MD
+ASN-65796559-D-500662-AY,Scarlet Brouncker,Positive,0,10/25/2020,25,Billing Question,Philadelphia,Pennsylvania,Email,Above SLA,26,Los Angeles/CA
+ASN-94885394-r-222915-hG,Kati Yushkov,Very Negative,4,10-03-2020,3,Billing Question,Louisville,Kentucky,Chatbot,Within SLA,23,Denver/CO
+ASO-15604006-S-719913-SV,Cristobal Sacase,Negative,4,10/16/2020,16,Billing Question,Phoenix,Arizona,Web,Within SLA,29,Chicago/IL
+ASQ-41450493-4-046437-Yy,Bertrand Fidell,Neutral,8,10/30/2020,30,Billing Question,Memphis,Tennessee,Email,Within SLA,29,Baltimore/MD
+ASQ-45755354-Y-050072-He,Storm Samter,Positive,7,10-04-2020,4,Billing Question,North Las Vegas,Nevada,Email,Below SLA,11,Baltimore/MD
+ASR-45559903-d-048725-ri,Misti Pickard,Neutral,0,10/19/2020,19,Billing Question,Bryan,Texas,Email,Below SLA,28,Los Angeles/CA
+ASS-19794399-d-365780-3I,Michale D'Ambrosi,Negative,0,10/26/2020,26,Billing Question,Portland,Oregon,Chatbot,Below SLA,31,Los Angeles/CA
+ASS-22875557-o-550724-IC,Terrill Kick,Neutral,7,10/16/2020,16,Service Outage,Miami,Florida,Chatbot,Within SLA,32,Baltimore/MD
+ASS-40999181-f-427081-Z0,Gennifer Krout,Very Negative,0,10/16/2020,16,Payments,Louisville,Kentucky,Call-Center,Within SLA,45,Los Angeles/CA
+ASS-94816640-a-581892-Pv,Laurella Gulberg,Negative,3,10-11-2020,11,Billing Question,Denver,Colorado,Email,Within SLA,7,Baltimore/MD
+AST-24770321-h-414883-SP,Almire Duffy,Negative,3,10-06-2020,6,Billing Question,Brooklyn,New York,Chatbot,Within SLA,31,Chicago/IL
+ASV-17162847-Z-560788-8s,Eba Wolver,Positive,9,10-10-2020,10,Billing Question,El Paso,Texas,Call-Center,Within SLA,21,Los Angeles/CA
+ASW-44050192-Q-197553-MF,Aron Symon,Negative,0,10-12-2020,12,Billing Question,Jamaica,New York,Chatbot,Within SLA,36,Baltimore/MD
+ASW-51522955-f-618640-I8,Alic Eddicott,Very Positive,0,10/29/2020,29,Billing Question,Waterbury,Connecticut,Web,Below SLA,20,Chicago/IL
+ASW-57633752-H-982847-fp,Vonny MacGow,Very Negative,0,10-01-2020,1,Billing Question,Louisville,Kentucky,Call-Center,Below SLA,15,Baltimore/MD
+ASX-79929691-t-993357-vx,Oralle Yanyshev,Very Negative,1,10-01-2020,1,Service Outage,Fairfax,Virginia,Chatbot,Below SLA,26,Los Angeles/CA
+ASY-64527143-Y-164926-ZC,Reinaldo Spence,Negative,0,10/26/2020,26,Billing Question,Sioux Falls,South Dakota,Email,Within SLA,20,Los Angeles/CA
+ASY-66697216-u-463368-XL,Loutitia Bernocchi,Negative,0,10-12-2020,12,Billing Question,Jackson,Mississippi,Web,Below SLA,40,Los Angeles/CA
+ASY-68296459-M-846360-eJ,Glen Atwood,Neutral,0,10/14/2020,14,Billing Question,Pensacola,Florida,Chatbot,Within SLA,28,Baltimore/MD
+ASY-87446867-D-417249-0d,Di Ainger,Very Negative,2,10-10-2020,10,Billing Question,New York City,New York,Call-Center,Within SLA,34,Los Angeles/CA
+ASY-98392835-y-574661-sy,Stevie Levins,Negative,5,10-10-2020,10,Payments,North Las Vegas,Nevada,Call-Center,Above SLA,43,Baltimore/MD
+ASZ-69979849-j-224609-rL,Rodi McCaghan,Neutral,0,10-06-2020,6,Payments,Dallas,Texas,Call-Center,Within SLA,20,Chicago/IL
+ASZ-78877682-d-095800-pY,Alfons Gulberg,Very Negative,0,10-09-2020,9,Payments,Evansville,Indiana,Call-Center,Within SLA,17,Los Angeles/CA
+ATA-48407280-U-989942-pG,Charo Galiford,Negative,0,10-07-2020,7,Billing Question,Tulsa,Oklahoma,Email,Within SLA,36,Los Angeles/CA
+ATA-64867073-2-046524-Bo,Cleveland Ruzek,Negative,3,10/13/2020,13,Billing Question,Pasadena,California,Call-Center,Within SLA,24,Los Angeles/CA
+ATA-75397342-X-407304-8w,Tisha Williamson,Neutral,0,10/25/2020,25,Billing Question,El Paso,Texas,Web,Within SLA,11,Los Angeles/CA
+ATB-58176779-M-571916-p5,Talia Tavner,Neutral,0,10/19/2020,19,Payments,West Palm Beach,Florida,Call-Center,Above SLA,16,Los Angeles/CA
+ATC-91293553-Y-554443-VU,Nollie Hulbert,Neutral,6,10-03-2020,3,Billing Question,Huntsville,Alabama,Email,Above SLA,7,Chicago/IL
+ATD-71798988-1-497943-BZ,Sampson Orriss,Negative,0,10/19/2020,19,Billing Question,Irving,Texas,Call-Center,Within SLA,9,Chicago/IL
+ATD-92872400-E-707737-Gy,Yurik Jaquet,Neutral,0,10/18/2020,18,Billing Question,Terre Haute,Indiana,Call-Center,Below SLA,12,Baltimore/MD
+ATE-66255471-Y-306531-YE,Roscoe Madle,Very Positive,0,10/17/2020,17,Billing Question,Greensboro,North Carolina,Web,Above SLA,38,Chicago/IL
+ATG-75025064-S-252674-vR,Bryna Androlli,Negative,0,10/13/2020,13,Billing Question,Birmingham,Alabama,Web,Within SLA,36,Baltimore/MD
+ATH-11276515-s-047129-PX,Janis Matthew,Neutral,0,10-01-2020,1,Service Outage,Mesa,Arizona,Email,Within SLA,13,Los Angeles/CA
+ATH-76726031-F-161319-5w,Tarrah Garlee,Very Negative,0,10/14/2020,14,Billing Question,South Bend,Indiana,Web,Below SLA,27,Los Angeles/CA
+ATI-08403045-D-111374-fK,Camile Tillett,Very Negative,0,10-10-2020,10,Billing Question,New York City,New York,Chatbot,Below SLA,36,Chicago/IL
+ATI-20629163-U-027908-3w,Beret Jeynes,Neutral,0,10-03-2020,3,Billing Question,Columbia,South Carolina,Email,Below SLA,22,Baltimore/MD
+ATI-39195434-3-382861-QH,Humberto Doggerell,Negative,0,10/26/2020,26,Billing Question,Canton,Ohio,Email,Below SLA,33,Chicago/IL
+ATJ-37943349-j-272049-vD,Antonella Akerman,Negative,0,10-06-2020,6,Billing Question,New Orleans,Louisiana,Email,Above SLA,33,Chicago/IL
+ATJ-40772893-L-383865-D3,Alonzo Kerins,Neutral,0,10/22/2020,22,Billing Question,Philadelphia,Pennsylvania,Chatbot,Below SLA,20,Los Angeles/CA
+ATK-76053986-1-818996-G4,Spencer Hammarberg,Very Positive,9,10-09-2020,9,Payments,Marietta,Georgia,Call-Center,Within SLA,33,Los Angeles/CA
+ATL-48732653-3-827238-zi,Isabelita Briddle,Neutral,0,10-07-2020,7,Payments,Washington,District of Columbia,Call-Center,Within SLA,13,Chicago/IL
+ATM-26392355-W-905072-IC,Daphna Frissell,Very Negative,4,10/22/2020,22,Billing Question,Helena,Montana,Email,Within SLA,24,Chicago/IL
+ATM-85670032-G-727586-CD,Eduard Urwen,Neutral,5,10/21/2020,21,Billing Question,Troy,Michigan,Call-Center,Above SLA,12,Baltimore/MD
+ATM-86089292-D-436189-uc,Susan Shenton,Negative,0,10/21/2020,21,Billing Question,Salem,Oregon,Web,Within SLA,44,Baltimore/MD
+ATN-62189195-n-787637-pS,Karl Semour,Negative,0,10/13/2020,13,Billing Question,Whittier,California,Chatbot,Below SLA,8,Chicago/IL
+ATN-96815228-Z-369913-9k,Linea Gossington,Positive,0,10/27/2020,27,Billing Question,San Antonio,Texas,Web,Below SLA,8,Baltimore/MD
+ATO-47644359-V-935476-Ur,Lou Self,Very Negative,2,10/20/2020,20,Billing Question,Charlotte,North Carolina,Web,Below SLA,8,Baltimore/MD
+ATO-50631991-Y-071964-EG,Benedikt Rhys,Neutral,5,10-06-2020,6,Billing Question,Grand Rapids,Michigan,Web,Within SLA,36,Los Angeles/CA
+ATO-77646958-D-387926-n2,Hayes Giacobelli,Negative,0,10/26/2020,26,Billing Question,Sioux City,Iowa,Email,Within SLA,18,Los Angeles/CA
+ATP-43583513-1-552060-51,Willis Tees,Positive,0,10-02-2020,2,Billing Question,Albany,New York,Call-Center,Above SLA,26,Chicago/IL
+ATP-74882920-z-262257-YU,Keir Fulcher,Negative,4,10/21/2020,21,Billing Question,Salinas,California,Call-Center,Within SLA,9,Los Angeles/CA
+ATP-78462170-3-376193-hE,Madison Redwing,Very Negative,0,10/21/2020,21,Payments,Rockford,Illinois,Call-Center,Within SLA,36,Los Angeles/CA
+ATP-93966149-G-250968-U1,Ax Counsell,Negative,0,10/14/2020,14,Payments,Austin,Texas,Call-Center,Within SLA,5,Chicago/IL
+ATQ-14062012-B-744317-V4,Arvin Martschke,Negative,0,10/26/2020,26,Service Outage,Fort Myers,Florida,Chatbot,Within SLA,42,Baltimore/MD
+ATQ-53974694-k-977118-oQ,Anderson Bagshaw,Negative,5,10/14/2020,14,Billing Question,Saint Louis,Missouri,Call-Center,Within SLA,22,Los Angeles/CA
+ATQ-75651595-F-094372-gn,Madalyn Lieb,Very Negative,0,10-06-2020,6,Payments,Austin,Texas,Call-Center,Below SLA,32,Los Angeles/CA
+ATR-16488056-5-951912-cF,Carissa Sargood,Positive,8,10-01-2020,1,Billing Question,Mountain View,California,Call-Center,Within SLA,6,Los Angeles/CA
+ATR-42477716-0-398409-5p,Judy Issitt,Very Positive,0,10/17/2020,17,Payments,Greensboro,North Carolina,Call-Center,Within SLA,18,Chicago/IL
+ATR-50488428-o-030607-ES,Alva Whatmough,Very Negative,0,10-01-2020,1,Billing Question,Orlando,Florida,Email,Above SLA,32,Los Angeles/CA
+ATR-51542430-n-174500-5R,Leonora Chicotti,Negative,0,10/29/2020,29,Billing Question,San Luis Obispo,California,Email,Below SLA,25,Los Angeles/CA
+ATS-32945525-p-342277-GU,Blayne Chatainier,Neutral,8,10-09-2020,9,Service Outage,Birmingham,Alabama,Email,Below SLA,5,Los Angeles/CA
+ATS-93928856-F-162825-iP,Daren Luney,Very Negative,2,10/24/2020,24,Billing Question,Syracuse,New York,Chatbot,Below SLA,35,Denver/CO
+ATT-14877025-F-430863-YP,Noll Gundrey,Neutral,8,10/27/2020,27,Billing Question,Tampa,Florida,Email,Within SLA,22,Chicago/IL
+ATT-58434560-C-012477-ZD,Tiphani Chance,Neutral,0,10/28/2020,28,Billing Question,Springfield,Virginia,Call-Center,Within SLA,35,Los Angeles/CA
+ATT-87817104-H-840824-Sq,Reggis Walpole,Very Negative,0,10/27/2020,27,Billing Question,Portsmouth,New Hampshire,Email,Within SLA,19,Los Angeles/CA
+ATU-18391065-A-392325-JX,Peria Pelman,Neutral,0,10/29/2020,29,Billing Question,Des Moines,Iowa,Chatbot,Below SLA,34,Los Angeles/CA
+ATU-20319405-i-837420-Fm,Lawrence Kirsop,Positive,9,10/25/2020,25,Payments,Los Angeles,California,Call-Center,Within SLA,18,Los Angeles/CA
+ATU-47602578-z-221867-sY,Kandy Kingswood,Very Negative,0,10/17/2020,17,Service Outage,El Paso,Texas,Chatbot,Within SLA,6,Baltimore/MD
+ATU-93242722-Q-119935-Hh,Armand Oxburgh,Very Positive,10,10-05-2020,5,Billing Question,Saint Petersburg,Florida,Web,Within SLA,27,Chicago/IL
+ATV-13824113-i-482210-G4,Rowe Rushmer,Negative,0,10-06-2020,6,Billing Question,Portsmouth,New Hampshire,Email,Within SLA,45,Los Angeles/CA
+ATV-89319648-i-355818-xL,Michelina MacTrustam,Negative,0,10-09-2020,9,Billing Question,Roanoke,Virginia,Email,Within SLA,28,Los Angeles/CA
+ATW-95195144-S-032045-M0,Cristabel Caukill,Negative,0,10/21/2020,21,Billing Question,New York City,New York,Email,Above SLA,8,Chicago/IL
+ATX-05080412-q-632280-HR,Shaine Sammonds,Neutral,0,10/25/2020,25,Billing Question,Shawnee Mission,Kansas,Call-Center,Below SLA,25,Los Angeles/CA
+ATX-08726520-l-519660-FG,Vevay Sacchetti,Neutral,0,10-05-2020,5,Service Outage,Saint Petersburg,Florida,Web,Within SLA,29,Los Angeles/CA
+ATX-27110547-H-937750-r6,Anthiathia Patifield,Neutral,0,10/13/2020,13,Billing Question,Tucson,Arizona,Email,Within SLA,30,Los Angeles/CA
+ATY-41053512-R-699450-DF,Karita Mahoney,Negative,0,10-02-2020,2,Billing Question,Stockton,California,Email,Above SLA,11,Los Angeles/CA
+ATY-45564757-0-171758-ZS,Koralle Jeremaes,Very Negative,0,10/27/2020,27,Service Outage,Atlanta,Georgia,Web,Within SLA,29,Baltimore/MD
